@@ -1,0 +1,3098 @@
+12 
+ 
+REECE, URRY, CAIN, WASSERMAN, MINORSKY & JACKSON
+em todos os níveis da hierarquia biológica. Por exemplo, a 
+uniformidade é evidente em muitas características da es-
+trutura celular, mesmo entre organismos com parentesco 
+distante (Figura 1.14).
+Como podemos explicar a dupla natureza da unifor-
+midade e da diversidade da vida? O processo da evolução, 
+explicado a seguir, elucida tanto as semelhanças como as 
+diferenças no mundo da vida e introduz outra dimensão da 
+biologia: o período histórico.
+Charles Darwin e a teoria da seleção natural
+A história da vida, documentada por fósseis e outras evi-
+dências, é a saga de uma dinâmica da Terra, com bilhões 
+de anos de idade, habitada por um leque cada vez maior 
+de formas de vida (Figura 1.15). Essa visão evolutiva da 
+vida surgiu em novembro de 1859, quando Charles Robert 
+Darwin publicou um de seus livros mais importantes. In-
+titulado A origem das espécies por meio da seleção natu-
+ral, o livro de Darwin se tornou um sucesso instantâneo 
+de vendas, logo transformando “darwinismo” em sinônimo 
+do conceito de evolução (Figura 1.16).
+A origem das espécies articula dois pontos principais. 
+Primeiro, Darwin apresenta evidências para apoiar a opi-
+nião de que as espécies contemporâneas surgiram a partir 
+de uma sucessão de ancestrais. Darwin chamou essa his-
+tória evolutiva das espécies de “descendência com modifi-
+Cílios de células da 
+traqueia. As células que 
+revestem a traqueia 
+humana são equipadas 
+com cílios que ajudam a 
+manter o pulmão limpo 
+varrendo uma película de 
+muco e removendo os 
+resíduos para fora.
+Cílios do Paramecium. 
+Os cílios do Paramecium 
+unicelular propelem o 
+organismo pela água.
+Secção transversal de um 
+cílio, observada ao 
+microscópio eletrônico
+0,1 mm
+15 mm
+5 mm
+ Figura 1.14 Um exemplo da uniformidade sustentan-
+do a diversidade da vida: a arquitetura dos cílios em euca-
+riotos. Cílios são extensões celulares cuja função é a locomoção. 
+Eles estão presentes em eucariotos tão diversos como o Paramecium 
+(encontrados em poças d’água) e seres humanos. Até mesmo orga-
+nismos muito diferentes compartilham uma arquitetura comum de 
+cílios, com um sistema elaborado de túbulos que se torna evidente 
+em cortes transversais.
+ Figura 1.15 Desenterrando o passado. Paleontólogos es-
+cavam cuidadosamente parte da ossada da perna de um fóssil de 
+dinossauro de pescoço longo (Rapetosaurus krausei) entre as pedras 
+em Madagascar.
+BIOLOGIA DE CAMPBELL 
+ 13
+cação”. Essa foi uma expressão significativa, pois resumia a 
+dualidade da vida: uniformidade versus diversidade – uni-
+formidade no parentesco das espécies que descenderam de 
+ancestrais comuns; diversidade nas modificações que evo-
+luíram quando as espécies se ramificaram a partir dos an-
+cestrais comuns (Figura 1.17). O segundo ponto principal 
+de Darwin foi propor um mecanismo para a descendência 
+com modificação. Ele chamou esse mecanismo evolutivo 
+de “seleção natural”.
+Darwin sintetizou sua teoria da seleção natural a par-
+tir de observações que por si só não eram novas tampou-
+co profundas. Outros pesquisadores tinham as peças do 
+“quebra-cabeça”, mas foi Darwin quem descobriu como elas 
+se encaixavam. Ele iniciou com as seguintes observações 
+obtidas da natureza: indivíduos de uma população variam 
+em suas características, inúmeras das quais parecem ser 
+herdáveis (passadas dos pais para a prole). Além disso, uma 
+população consegue produzir um número bem maior de 
+descendentes comparado ao número que consegue sobre-
+viver e produzir a própria descendência. Com mais indiví-
+duos que o ambiente pode sustentar, a competição passa a 
+ser inevitável. Por fim, as espécies geralmente se ajustam 
+ao ambiente em que vivem. Por exemplo, aves que vivem 
+em lugares onde sementes duras constituem uma boa fonte 
+de alimento podem ter bicos especialmente fortes.
+Darwin partiu dessas observações e fez inferências 
+para chegar à teoria da evolução. Ele argumentou que in-
+divíduos que herdam características mais bem adaptadas 
+ao ambiente local estão mais propensos a sobreviver e a se 
+reproduzir do que indivíduos menos adaptados. Ao lon-
+go de muitas gerações, uma proporção cada vez maior de 
+indivíduos na população terá as características vantajosas. 
+A evolução ocorre à medida que o sucesso reprodutivo 
+desigual dos indivíduos adapta a população ao ambiente, 
+contanto que o ambiente continue o mesmo.
+Darwin chamou esse mecanismo de adaptação evolu-
+tiva de seleção natural, já que o ambiente natural “sele-
+ciona” a propagação de certas características. O exemplo 
+na Figura 1.18 ilustra a habilidade da seleção natural em 
+“editar” variações hereditárias de cor de uma população. 
+Vemos os produtos da seleção natural nas requintadas 
+adaptações de vários organismos às circunstâncias espe-
+ciais de seu estilo de vida e de seu ambiente. As asas do 
+morcego apresentadas na Figura 1.19 constituem excelen-
+te exemplo de adaptação.
+A árvore da vida
+Dê uma nova olhada na arquitetura do esqueleto das asas 
+do morcego na Figura 1.19. Estas asas não são como as de 
+pássaros; o morcego é um mamífero. Esses membros an-
+teriores, embora adaptados para o voo, têm na verdade os 
+ Figura 1.16 Charles Darwin quando jovem. Sua revolucio-
+nária obra A origem das espécies foi publicada em 1859.
+ Figura 1.17 Uniformida-
+de e diversidade entre aves. 
+Estas três aves são variações 
+de um plano corporal comum. 
+Por exemplo, cada uma delas 
+tem penas, bico e asas – apesar 
+dessas características serem al-
+tamente especializadas para os 
+diversos estilos de vida destas 
+aves.
+m Flamingo-americano
+m Pinguim-gentoo
+b Pisco-de-peito-ruivo
+14 
+ 
+REECE, URRY, CAIN, WASSERMAN, MINORSKY & JACKSON
+mesmos ossos, juntas, nervos e vasos sanguíneos encon-
+trados em outros membros tão diferentes quanto o braço 
+humano, a pata dianteira do cavalo e a nadadeira da baleia. 
+De fato, todos os membros anteriores de mamíferos são 
+variações anatômicas de uma arquitetura comum, assim 
+como as aves na Figura 1.17 constituem uma variação de 
+um tema “aviário” fundamental. Esses exemplos de paren-
+tesco conectam a singularidade da diversidade da vida ao 
+conceito darwiniano de descendência com modificação. 
+Nessa visão, a uniformidade da anatomia do membro de 
+mamíferos reflete a herança daquela estrutura oriunda de 
+um ancestral comum – o mamífero “protótipo” do qual 
+todos os outros mamíferos descendem. A diversidade dos 
+membros anteriores dos mamíferos resulta da modificação 
+pela seleção natural agindo durante milhões de gerações 
+em diferentes contextos ambientais. Fósseis e outras evi-
+dências corroboram a uniformidade anatômica e susten-
+tam essa visão de descendência dos mamíferos a partir de 
+um ancestral comum.
+Darwin propôs que, devido aos efeitos cumulativos 
+da seleção natural atuando em vastos períodos de tempo, 
+uma espécie ancestral poderia originar duas ou mais es-
+pécies descendentes. Isso poderia ocorrer, por exemplo, 
+se uma população se fragmentasse em subpopulações iso-
+ladas em diferentes ambientes. Nessas arenas separadas 
+pela seleção natural, uma espécie poderia gradativamente 
+irradiar-se em múltiplas espécies à medida que as popu-
+lações geograficamente isoladas se adaptavam, ao longo 
+de muitas gerações, aos diferentes conjuntos de fatores 
+ambientais.
+A “árvore genealógica” de 14 tentilhões na Figura 1.20 
+ilustra um famoso exemplo de radiação adaptativa de no-
+vas espécies a partir de um ancestral comum. Darwin co-
+lecionou espécimes desses pássaros durante sua visita em 
+1835 às remotas Ilhas Galápagos, no Oceano Pacífico, a 900 
+quilômetros (km) da costa da América do Sul. Essas ilhas 
+vulcânicas relativamente novas são o hábitat exclusivo de 
+muitas espécies de plantas e animais, embora a maioria 
+dos organismos desse arquipélago tenha parentesco com 
+espécies presentes no continente sul-americano. Após a 
+formação vulcânica das Ilhas Galápagos há vários milhões 
+de anos, os tentilhões provavelmente se diversificaram nas 
+várias ilhas a partir de uma espécie de tentilhão ancestral 
+que, ao acaso, chegou ao arquipélago, oriunda de outra lo-
+calidade. Anos após a coleção de tentilhões de Galápagos 
+de Darwin, pesquisadores começaram a investigar o paren-
+tesco entre as espécies de tentilhões, primeiro a partir de
+dados anatômicos e geográficos e, mais recentemente, com 
+o auxílio de comparações de sequências de DNA.
+Diagramas biológicos de relações evolutivas em geral 
+têm a estrutura de árvores, embora as árvores muitas ve-
+zes sejam representadas lateralmente, como na Figura 1.20. 
+Diagramas do tipo árvore fazem sentido: assim como a 
+descendência de um indivíduo pode ser diagramada em 
+uma árvore genealógica, cada espécie de organismo é um 
+pequeno ramo de um galho de uma árvore da vida que se
+estende rumo ao passado ao longo de espécies ancestrais 
+cada vez mais remotas. Espécies muito similares, como os 
+tentilhões de Galápagos, compartilham um ancestral co-
+mum em um ponto de ramificação relativamente recente 
+na árvore da vida. Entretanto, por conta de um ancestral 
+que viveu há mais tempo, os tentilhões têm parentes-
+co com pardais, gaviões, pinguins e todas as outras aves. 
+Assim, aves, mamíferos e todos os outros vertebrados 
+População com
+características
+hereditárias variadas
+1
+Eliminação de
+indivíduos com certas
+características
+2
+Reprodução dos
+sobreviventes
+3
+Aumento na frequência
+de características que
+aumentam o sucesso
+de sobrevivência e
+reprodução
+4
+ Figura 1.18 Seleção natural. Esta população imaginária de 
+besouros colonizou um local onde o solo foi escurecido por um in-
+cêndio recente. Inicialmente, há ampla variação na cor herdada nos 
+indivíduos da população, desde cinza-claro até preto. Para pássaros 
+famintos que caçam besouros, é mais fácil localizar os besouros mais
+claros.
+ Figura 1.19 Adaptação evolutiva. Mor-
+cegos, os únicos mamíferos capazes de alçar voo, 
+têm asas com membranas entre “dedos” estendi-
+dos. Darwin propôs que essas adaptações são apri-
+moradas ao longo do tempo pela seleção natural.
+BIOLOGIA DE CAMPBELL 
+ 15
+compartilham um ancestral comum ainda mais antigo. 
+Rastreie a vida até seus primórdios e sobrarão apenas fós-
+seis dos procariotos primitivos, que habitaram a Terra há 
+3,5 bilhões de anos. Podemos reconhecer seus vestígios em 
+nossas próprias células – no código genético universal, por 
+exemplo. Toda a forma de vida está conectada em uma lon-
+ga história evolutiva.
+REVISÃO DO CONCEITO 1.2
+ 1. Como um endereço de postagem pode ser análogo ao siste-
+ma biológico de hierarquia taxonômica?
+ 2. Explique por que “editar” é uma metáfora mais adequada 
+do que “criar” para o modo que a seleção natural atua na 
+variação hereditária das populações.
+ 3.  E SE...?  Os três domínios aprendidos no item 1.2 podem 
+ser representados como as três principais ramificações na 
+árvore da vida. Na ramificação eucariótica, três das sub-
+-ramificações são os reinos Plantae, Fungi e Animalia. E se 
+fungos e animais tivessem parentesco mais íntimo entre si 
+do que com o reino das plantas – como evidências recen-
+tes sugerem? Desenhe um modelo simples de ramificação 
+que simbolize a relação proposta entre esses três reinos 
+eucarióticos.
+Ver respostas sugeridas no Apêndice A.
+CONCEITO 1.3
+Ao estudar a natureza, os cientistas fazem 
+observações, formulam e testam hipóteses
+A ciência é uma forma de conhecer o mundo natural. Ela 
+evoluiu a partir da nossa curiosidade sobre nós, outras for-
+mas de vida, nosso planeta e o universo. A palavra ciência 
+deriva do verbo latino que significa “conhecer”. Tentar en-
+tender parece ser um dos nossos impulsos básicos.
+ANCESTRAL
+COMUM
+Tentilhões
+canoros
+Comedores
+de insetos
+Comedores
+de insetos
+Comedores
+de sementes
+Tentilhões
+arbóreos
+Tentilhões
+de solo
+Comedores
+de sementes
+Comedores
+de broto
+Comedores de
+flores de cactos
+Tentilhão canoro verde
+Certhidea olivacea
+Tentilhão canoro cinza
+Certhidea fusca
+Tentilhão terrestre
+de bico afiado
+Geospiza difficilis
+Tentilhão vegetariano
+Platyspiza crassirostris
+Tentilhão mangrove
+Cactospiza heliobates
+Tentilhão pica-pau
+Cactospiza pallida
+Médio tentilhão arbóreo
+Camarhynchus pauper
+Grande tentilhão arbóreo
+Camarhynchus psittacula
+Pequeno tentilhão arbóreo
+Camarhynchus parvulus
+Grande tentilhão terrestre
+comedor de cactos
+Geospiza conirostris
+Tentilhão terrestre
+comedor de cactos
+Geospiza scandens
+Pequeno tentilhão terrestre
+Geospiza fuliginosa
+Médio tentilhão terrestre
+Geospiza fortis
+Grande tentilhão terrestre
+Geospiza magnirostris
+Cada bifurcação representa o 
+ancestral comum da linhagem 
+evolutiva originária e seus 
+descendentes (à direita no 
+diagrama).
+ Figura 1.20 Descendência com 
+modificação: radiação adaptativa de 
+tentilhões nas Ilhas Galápagos. Esta 
+“árvore” ilustra o modelo atual da evo-
+lução dos tentilhões nas Ilhas Galápagos. 
+Observe os diferentes bicos, adaptados 
+para as distintas fontes alimentares das 
+diferentes ilhas. Por exemplo, entre os 
+comedores de sementes, os bicos mais 
+robustos e grossos são melhores para 
+quebrar sementes maiores e com cascas 
+fortes, enquanto bicos mais finos são 
+melhores para juntar sementes pequenas 
+como sementes de grama.
+16 
+ 
+REECE, URRY, CAIN, WASSERMAN, MINORSKY & JACKSON
+No centro da ciência está a pesquisa, uma busca por 
+informação e explicação de fenômenos naturais. Não há 
+fórmula para uma pesquisa científica bem-sucedida. Ne-
+nhum método científico em particular tem um manual que 
+os pesquisadores devam seguir à risca. Como em todas as 
+buscas, a ciência inclui elementos de desafio, fatos inespe-
+rados e sorte, junto com planejamento cuidadoso, sensa-
+tez, criatividade, paciência e persistência para superar as 
+dificuldades. Esses distintos elementos da pesquisa tornam 
+a ciência consideravelmente menos estruturada do que a 
+maioria das pessoas imagina. Posto isso, é possível separar 
+certas características que ajudam a distinguir a ciência de 
+outras maneiras de descrever e explicar a natureza.
+Cientistas utilizam um processo de pesquisa que in-
+clui fazer observações, formular explicações com alguma 
+lógica (hipóteses) e testá-las. O processo é necessariamente 
+repetitivo: ao se testar uma hipótese, uma maior quanti-
+dade de observações pode inspirar uma reconsideração 
+da hipótese original ou formulação de uma nova hipótese, 
+novamente a ser testada. Dessa forma, os cientistas conse-
+guem se aproximar cada vez mais das leis que governam a 
+natureza.
+Fazendo observações
+No decorrer do trabalho, cientistas descrevem estrutu-
+ras e processos naturais com a maior precisão possível a 
+partir da cuidadosa observação e análise de dados. Por
+observação, entende-se o agrupamento de informações, 
+tanto pelo uso direto dos sentidos ou com a ajuda de ferra-
+mentas como microscópios, termômetros e balanças, que 
+estendem os nossos sentidos. Observações podem revelar 
+informações valiosas sobre o mundo natural. Por exemplo, 
+uma série de observações detalhadas tem moldado a nossa 
+compreensão sobre a estrutura celular, e outro conjunto de 
+observações está atualmente expandindo nosso banco de 
+dados de genomas de diversas espécies e de genes cuja ex-
+pressão é alterada em cânceres e outras doenças.
+Observações registradas são denominadas de dados. 
+Em outras palavras, dados são itens de informação em que 
+se baseia a pesquisa científica. O termo dados implica nú-
+meros para muitas pessoas. Mas alguns dados são qualita-
+tivos, em geral na forma de descrições registradas, em vez 
+de medidas numéricas. Por exemplo, Jane Goodall investiu
+décadas registrando observações sobre o comportamento 
+de chimpanzés durante a pesquisa de campo nas selvas da 
+Tanzânia (Figura 1.21). Junto com esses dados qualitati-
+vos, Goodall também enriqueceu o campo do comporta-
+mento animal com volumosos dados quantitativos, como 
+a frequência e duração de comportamentos específicos en-
+tre diferentes membros de um grupo de chimpanzés em 
+diferentes situações. Dados quantitativos são geralmente 
+expressos na forma de medidas numéricas e organizados 
+em tabelas e gráficos. Cientistas analisam seus dados utili-
+zando um tipo de matemática denominada estatística para 
+determinar se os mesmos são significativos ou meramente 
+resultantes de flutuações randômicas. (Cabe ressaltar que 
+todos os resultados apresentados neste texto demonstra-
+ram ser estatisticamente significativos.)
+A ciência da descoberta pode levar a importantes con-
+clusões com base em um tipo de lógica denominada indução 
+ou argumentação indutiva. Por meio da indução, fazemos 
+generalizações a partir de um grande número de obser-
+vações científicas. “O sol sempre nasce no leste” e “Todos 
+os organismos são constituídos de células” são exemplos. 
+As cuidadosas observações e análises de dados da ciência da 
+descoberta, junto a generalizações alcançadas pela indução, 
+são fundamentais para a nossa compreensão da natureza.
+Formulando e testando hipóteses
+Nossa curiosidade inata geralmente nos estimula a ela-
+borar questões sobre a base natural dos fenômenos que 
+observamos no planeta. O que causou os diferentes com-
+portamentos dos chimpanzés que Goodall observou em 
+diferentes situações? O que causa o crescimento para bai-
+xo de raízes de uma planta em germinação? Na ciência, 
+esse questionamento geralmente envolve a formação e tes-
+te de explicações hipotéticas – ou seja, hipóteses.
+Na ciência, hipóteses são explicações experimentais 
+para questões bem formuladas – uma explanação em tes-
+te. Em geral são palpites bem embasados, fundamentados 
+na experiência e em dados disponíveis a partir da ciência 
+da descoberta. Uma hipótese científica leva a predições 
+que podem ser testadas com observações adicionais ou a 
+realização de experimentos. Um experimento constitui um 
+teste científico, este conduzido em condições controladas.
+Todos nós utilizamos hipóteses para resolver proble-
+mas diários. Digamos, por exemplo, que a lanterna falhe 
+durante um acampamento. Isso é uma observação. A ques-
+tão óbvia: por que a lanterna não funciona? Duas hipóteses 
+razoáveis, com base na experiência, seriam: (1) as pilhas 
+da lanterna estão gastas ou (2) a lâmpada queimou. Cada 
+uma dessas hipóteses alternativas faz predições que podem 
+ser testadas experimentalmente. Por exemplo, a hipótese 
+ Figura 1.21 Jane Goodall coletando dados qualitativos 
+sobre o comportamento do chimpanzé. Goodall registrou suas 
+observações em cadernos de campo, em geral com desenhos sobre 
+o comportamento dos animais.
+BIOLOGIA DE CAMPBELL 
+ 17
+das pilhas esgotadas prediz que a troca por pilhas novas 
+solucionará o problema. A Figura 1.22 apresenta um dia-
+grama dessa pesquisa de campo. Raramente dissecamos 
+nossos processos de pensamento dessa maneira quando 
+resolvemos um problema utilizando hipóteses, predições e 
+experimentos. A ciência com base em hipóteses claramen-
+te tem sua origem na tendência humana em descobrir as 
+coisas por tentativa e erro.
+Algumas vezes não há condições de se conduzir um 
+experimento, mas podemos testar uma hipótese utilizando 
+observações. Digamos que você não tenha uma lâmpada 
+extra ou baterias para repor. Como você determinaria qual 
+hipótese é mais provável? Você poderia examinar e verifi-
+car se a lâmpada aparenta estar queimada. Também pode-
+ria checar a data de expiração nas baterias. Experimentos 
+representam excelentes formas de se testar hipóteses, mas 
+quando não são possíveis, podemos geralmente testar uma 
+hipótese de outras maneiras.
+Raciocício dedutivo
+Um tipo de lógica denominada dedução fundamenta-
+-se na ciência com base na hipótese. A dedução contras-
+ta com a indução, que, lembrando, é o raciocínio a partir 
+de um conjunto de observações específicas para chegar 
+a uma conclusão geral. No raciocínio dedutivo, a lógica 
+flui na direção oposta, do geral para o específico. Partindo 
+de premissas gerais, extrapolamos para os resultados es-
+pecíficos que deveríamos esperar se as premissas fossem 
+verdadeiras. Na ciência com base na hipótese, as deduções 
+geralmente assumem a forma de predições de resultados 
+experimentais ou observacionais encontrados se uma 
+determinada hipótese (premissa) estiver correta. Então 
+testamos essa hipótese com a realização de experimentos 
+ou observações para revelar se os resultados são previsíveis 
+ou não. Esse teste dedutivo toma a forma de uma lógica do 
+tipo “se... então”. No caso do exemplo da lanterna: se a hi-
+pótese das pilhas esgotadas estiver correta, e você trocá-las 
+por novas, então a lanterna irá funcionar.
+O exemplo da lanterna demonstra outros dois pontos-
+-chave sobre o uso de hipóteses na ciência. Primeiramente, 
+a observação inicial pode dar origem a múltiplas hipóteses. 
+O plano ideal é desenvolver experimentos para testar todas 
+essas explicações possíveis. Por exemplo, uma das muitas 
+possíveis hipóteses alternativas para explicar a falha na 
+lanterna é que tanto a bateria quanto a lâmpada estejam 
+pifadas, e você poderia desenvolver um experimento para 
+testar essa hipótese.
+Em segundo lugar, nunca podemos provar que uma hi-
+pótese é verdadeira. Com base nos experimentos apresen-
+tados na Figura 1.22, a hipótese da lâmpada queimada se 
+destaca como a explicação mais plausível.Os resultados fa-
+vorecem essa hipótese, mas de forma alguma provam que 
+ela esteja correta. Talvez a primeira lâmpada estivesse ape-
+nas frouxa, não permitindo um contato elétrico, e a nova 
+lâmpada foi inserida corretamente. Poderíamos tentar tes-
+tar a hipótese da lâmpada queimada novamente a partir 
+de outro experimento – removendo a lâmpada original e 
+recolocando-a cuidadosamente. Se a lanterna não funcio-
+nar, a hipótese da lâmpada queimada passa a ser reforçada 
+por mais uma evidência – ainda que não seja comprovada. 
+Por exemplo, a lâmpada pode ter outro defeito não relacio-
+nado à possibilidade de estar queimada. Testar de diversas 
+maneiras, produzindo diferentes tipos de dados, pode au-
+mentar imensamente a nossa confiança na hipótese, mas 
+nunca irá comprová-la.
+Questões que podem e não podem ser respondidas a 
+partir da ciência
+A pesquisa científica é uma forma poderosa de estudar a 
+natureza, mas existem limitações aos tipos de que ela tem 
+capacidade de responder. Uma hipótese científica deve ser 
+testável; deve haver alguma observação ou experimento 
+que possa revelar se essa ideia é potencialmente falsa ou 
+verdadeira. A hipótese de que as baterias esgotadas fossem 
+a única causa da falta de funcionalidade da lanterna po-
+deria ser (e foi) testada a partir da reposição das baterias 
+velhas por novas.
+Nem todas as hipóteses cumprem os critérios da ciên-
+cia: você não seria capaz de testar a hipótese de que fantas-
+mas estejam brincando com a sua lanterna! Visto que a ciên-
+cia lida somente com explicações naturais e testáveis para 
+fenômenos naturais, ela não consegue apoiar ou contradizer 
+a hipótese de que fantasmas, espíritos, elfos ou fadas, bené-
+volos ou perversos, causem tempestades, arco-íris, doenças 
+ou curas. Uma vez que essas explicações sobrenaturais não 
+podem ser testadas, elas ocupam uma posição fora dos li-
+mites da ciência. A ciência não lida com questões religiosas 
+pela mesma razão, uma vez que isso envolve a pura fé. Ciên-
+cia e religião não são mutuamente excludentes nem contra-
+ditórias, apenas abordam diferentes questões.
+Observações: A lanterna não funciona.
+Questão: Por que a lanterna não funciona?
+Hipótese #1:
+As pilhas estão gastas.
+Hipótese #2:
+A lâmpada está queimada.
+Predição: A troca das pilhas 
+irá solucionar o problema.
+Predição: A troca da lâmpada 
+irá solucionar o problema.
+Testar predição: 
+Troque as pilhas.
+Testar predição: 
+Troque a lâmpada.
+Resultado:
+A lanterna não funciona.
+O teste refuta a hipótese.
+Resultado:
+A lanterna funciona.
+O teste sustenta a hipótese.
+ Figura 1.22 Uma visão simplificada do processo cientí-
+fico. O processo idealizado alguma vezes chamado de “método 
+científico” está apresentado neste diagrama que utiliza um exemplo 
+de acampamento para testar a hipótese.
+18 
+ 
+REECE, URRY, CAIN, WASSERMAN, MINORSKY & JACKSON
+A flexibilidade do processo científico
+O exemplo da lanterna na Figura 1.22 busca um processo 
+ideal de pesquisa denominado método científico. Podemos 
+reconhecer os elementos desse processo na maioria dos 
+artigos de pesquisa publicados por cientistas, mas rara-
+mente em uma forma tão bem estruturada. Pouquíssimas 
+pesquisas científicas seguem rigidamente a sequência de 
+passos prescrita pelo “livro-texto” dos métodos científicos, 
+que é geralmente aplicado em retrospecto, após o térmi-
+no do experimento ou estudo. Por exemplo, um cientista 
+pode começar a projetar um experimento, mas então recu-
+ar ao ver que são necessárias mais observações. Em outros 
+casos, observações intrigantes simplesmente não provo-
+cam questões bem definidas até que outras pesquisas le-
+vem aquelas observações a outro contexto. Por exemplo, 
+Darwin colecionou espécimes de tentilhões de Galápagos, 
+mas apenas muitos anos mais tarde, quando a ideia de se-
+leção natural começou a fluir, é que biólogos começaram a 
+formular questões cruciais sobre a história daqueles pás-
+saros. A ciência é muito mais imprevisível – e empolgante 
+– do que um genérico método analítico de cinco passos.
+Um modelo mais realístico desse processo científi-
+co está apresentado na Figura 1.23. A atividade central 
+(o círculo do meio na figura) representa a formulação e tes-
+te de hipóteses. Esse é o aspecto mais importante da ciência 
+e é a razão pela qual a ciência desempenha um papel tão 
+confiável em explicar fenômenos na natureza. Entretanto, 
+há muito mais no processo científico do que apenas testar. 
+A escolha de ideias para testar, a interpretação e avaliação 
+dos resultados, e a decisão de quais ideias perseguir em sub-
+sequentes estudos são influenciadas por outras três áreas.
+Primeiramente, ideias bem formuladas, novas hipó-
+teses e estudos bem planejados não surgem do nada; elas 
+são inspiradas e alimentadas por formas de empenho as-
+sociadas à exploração e descoberta (o círculo superior na 
+Figura 1.23). Em segundo lugar, a testagem não acontece 
+em um vácuo social; a análise e parecer comunitário desem-
+penham um papel fundamental (círculo inferior direito). 
+E
+X
+P
+L
+O
+R
+A
+Ç
+Ã
+O
+ 
+E
+ 
+D
+E
+S
+C
+O
+B
+E
+R
+T
+A
+• Formular hipóteses
+• Prever resultados
+• Realizar experimento
+   e/ou observações
+• Medir resultados
+Interpretar resultados de testes
+Os dados podem...
+• Sustentar a hipótese
+• Refutar a hipótese
+• Inspirar uma revisada ou 
+   nova hipótese 
+• Suscitar a revisão dos
+   pressupostos
+• Observar a natureza
+• Formular perguntas
+• Compartilhar dados e 
+ideias
+• Encontrar inspiração
+• Explorar a literatura 
+científica
+B
+E
+N
+E
+F
+Í
+C
+I
+O
+S
+ 
+E
+ 
+R
+E
+S
+U
+L
+T
+A
+D
+O
+S
+ 
+S
+O
+C
+I
+A
+I
+S
+• Desenvolver tecnologia
+• Abordar problemas da 
+sociedade
+• Embasar decisões políticas
+• Resolver problemas do 
+cotidiano
+• Satisfazer a curiosidade
+• Construir conhecimento
+A
+N
+Á
+L
+I
+S
+E
+ 
+E
+ 
+P
+A
+R
+E
+C
+E
+R
+ 
+C
+O
+M
+U
+N
+I
+T
+Á
+R
+I
+O
+S
+ • Parecer e revisão 
+ dos dados
+• Reprodução de experi-
+mentos e observações
+• Discussão com 
+colegas
+• Publicação
+• Criação de ideias e 
+perguntas novas
+• Construção de
+teorias
+F
+O
+R
+M
+U
+L
+A
+R 
+E 
+T
+E
+S
+T
+A
+R 
+H
+IP
+Ó
+T
+E
+S
+E
+S
+Testar ideias
+ Figura 1.23 O processo científico: um mo-
+delo mais realístico. Na realidade, o processo cien-
+tífico não é linear, mas sim circular, envolvendo retro-
+cessos, repetições e interações das diferentes partes 
+do processo. A ilustração baseia-se em um modelo 
+(Como a Ciência Funciona) do site Understanding 
+Science (www.understandingscience.org).
+BIOLOGIA DE CAMPBELL 
+ 19
+Interações dentro da comunidade científica influenciam 
+quais hipóteses são testadas e a maneira como elas são tes-
+tadas, suscitam a reinterpretação dos resultados dos testes, 
+fornecem avaliações independentes quanto à validez do pla-
+nejamento do estudo e muito mais. Finalmente, o processo 
+da ciência está ligado à construção da sociedade (círculo 
+inferior esquerdo). A necessidade da sociedade – em, por 
+exemplo, entender o processo de mudança climática – pode 
+inspirar muitas hipóteses e estudos. Similarmente, hipóte-
+ses bem embasadas talvez possibilitem uma importante 
+inovação tecnológica ou encorajar uma política particular 
+que pode, por sua vez, inspirar novos questionamentos 
+científicos. Ainda que o teste de hipóteses e a interpretação 
+de dados possam representar a base central da ciência, es-
+sas atividades representam apenas uma parte do conjunto.
+Um estudo de caso em pesquisa científica: 
+investigando a coloração da pelagem em 
+populações de camundongo
+Agora que já ressaltamos as principais características da pes-
+quisa científica – realizar observações, formular e testar hi-
+póteses –, você já deve ser capaz de reconhecer essas carac-
+terísticas em um caso de estudo de pesquisa científica real.
+A história começa com um conjunto de observações e 
+generalizações indutivas. O padrão de coloração de animais 
+varia significativamente na natureza, algumas vezes até 
+mesmo entre membros da mesma espécie. A que se atribui 
+essa variação? Um exemplo ilustrativo pode ser encontrado 
+nas duas populações de camundongo pertencentes à mes-
+ma espécie (Peromyscus polionotus), mas que apresentam 
+diferentes padrões de coloração e ocupam hábitats distin-
+tos (Figura 1.24). O camundongo de praia vive ao longo 
+da costa da Flórida, um hábitat com dunas de areia bran-
+ca com moitas esparsas. O camundongo de terra vive em 
+solos mais férteis e escuros, mais afastados da costa. Até 
+mesmo uma olhada de relance na fotografia da Figura 1.24 
+revela uma impressionante correspondência na coloração 
+dos camundongos aos seus hábitats. Os predadores natu-
+rais desses camundongos, incluindo águias, corujas, rapo-
+sas e coiotes, são caçadores visuais (utilizam a visão para 
+procurar a presa). Assim, foi lógico para Francis Bertody 
+Sumner, um naturalista que estudou populações desses ca-
+mundongos na década de 1920, formular a hipótese de que 
+seus padrões de coloração evoluíram como adaptações para 
+camuflar os camundongos em seus ambientes nativos, de 
+forma a proteger os mesmos contra predadores.
+Ainda que a hipótese de camuflagem pareça óbvia, ela 
+necessitava ser testada. Em 2010, a bióloga Hopi Hoekstra 
+(Universidade de Harvard) e parte de seu grupo de es-
+tudantes se dirigiram à Florida para testar a predição de 
+que camundongos com coloração que não se assemelha 
+a seu hábitat sofreriam predação com maior frequência 
+do que camundongos nativos e mais bem camuflados. 
+A Figura 1.25 resume esse experimento de campo.
+Os pesquisadores produziram centenas de modelos 
+plastificados de camundongos e os pintaram para que se 
+assemelhassem ao camundongo de praia (coloração clara) 
+ou ao camundongo de terra (coloração escura), de forma 
+que os modelos diferissem unicamente em seu padrão de 
+coloração. Os pesquisadores distribuíram quantidades 
+iguais desses modelos aleatoriamente nos dois ambientes 
+População
+da praia
+Flórida
+População
+continental
+GOLFO DO
+MÉXICO
+Camundongos de praia habitando em dunas de 
+areia de vegetação esparsa ao longo da costa 
+têm coloração clara e pelagem manchada no 
+lombo, que lhes permitem se misturar com o 
+entorno, fornecendo camuflagem.
+Membros da mesma espécie habitando a 
+cerca de 30 km da costa têm pelagem escura 
+no lombo, camuflando-os com o solo escuro 
+de seu hábitat.
+População de praia
+População continental
+ Figura 1.24 Coloração diferenciada em populações de Peromyscus polionatus da praia e da terra.
+20 
+ 
+REECE, URRY, CAIN, WASSERMAN, MINORSKY & JACKSON
+e voltaram no dia seguinte. Os modelos 
+que se assemelhavam ao camundon-
+go nativo no hábitat representavam o 
+grupo-controle (p. ex., modelos de ca-
+mundongo de praia de coloração clara 
+no hábitat de praia), enquanto os mo-
+delos com coloração não nativa repre-
+sentavam o grupo experimental (p. ex., 
+modelos de camundongo de terra de 
+coloração escura no hábitat de praia). 
+Na manhã seguinte, o grupo contabi-
+lizou e registrou sinais de eventos de 
+predação que variavam desde marcas 
+de mordida e arranhões em alguns mo-
+delos até o desaparecimento de outros. 
+A julgar pelo formato das mordidas dos 
+predadores e rastros ao redor do campo 
+experimental, os predadores pareciam 
+estar igualmente distribuídos entre ma-
+míferos (raposas e coiotes) e pássaros 
+(corujas, garças e águias).
+Para cada ambiente, os pesquisa-
+dores calcularam então a porcentagem 
+de eventos de predação voltados a mo-
+delos de camundongos camuflados. 
+Os resultados foram claros: modelos 
+camuflados experimentaram muito me-
+nos predação que aqueles carecendo de 
+camuflagem tanto no hábitat de praia 
+(onde camundongos claros estariam 
+menos vulneráveis) quanto no hábitat 
+de solo (onde camundongos escuros 
+estariam menos vulneráveis). Portanto, 
+os dados apoiam a predição da hipótese 
+de camuflagem. Consulte mais informa-
+ções sobre Hopi Hoekstra e sua pesqui-
+sa com camundongos de praia na entre-
+vista que antecede o Capítulo 22.
+Variáveis experimentais e 
+controles
+Mais cedo nesta seção descrevemos 
+que um experimento é um teste cientí-
+fico conduzido em condições controladas. Mais especifica-
+mente, um experimento envolve a manipulação de apenas 
+um fator em um sistema de forma a evidenciar os efeitos 
+de sua mudança. Tanto o fator que é manipulado quanto os 
+efeitos que são medidos são tipos de variáveis experimen-
+tais – fatores que variam em um experimento.
+O experimento de camuflagem de camundongo des-
+crito na Figura 1.25 é um exemplo de um experimento 
+controlado desenvolvido para comparar um grupo expe-
+rimental (o camundongo não camuflado, neste caso) com 
+o grupo-controle (o camundongo camuflado que normal-
+mente reside a área). Idealmente, espera-se que os grupos 
+experimentais e o controle difiram apenas quanto ao fator 
+que o experimento está testando – em nosso exemplo, o 
+efeito da coloração de camundongos no comportamento 
+de predadores. Nesse caso, a coloração do camundongo é 
+o fator manipulado pelos pesquisadores; é a denominada 
+variável independente. A quantidade de predação cons-
+titui a variável dependente, fator que é medido no expe-
+rimento. Sem o grupo-controle, os pesquisadores não se-
+riam capazes de descartar a hipótese de que outros fatores 
+causavam os ataques mais frequentes nos camundongos 
+não camuflados – como diferentes tipos de predadores 
+ou diferentes temperaturas nas diferentes áreas testadas. 
+O inteligente planejamento experimental deixou unica-
+mente a coloração como fator que poderia ser responsável 
+pela baixa taxa de predação nos camundongos camuflados 
+distribuídos em seu hábitat normal.
+Existe um equívoco comum no que tange à definição 
+do termo experimento controlado, ou seja, o de que cien-
+ Figura 1.25
+Pesquisa
+A camuflagem afeta as taxas de predação em duas populações 
+de camundongos?
+Experimento Hopi Hoekstra e seus colaboradores queriam testar a hipótese de que 
+a coloração de camundongos de praia e de terra (Peromyscus polionotus) fornece 
+camuflagem que os protege da predação em seus respectivos hábitats. Os pesquisa-
+dores borrifaram tinta em modelos de camundongo com padrões de coloração clara 
+ou escura que se assemelhassem àquelas dos camundongos de praia ou terra, e então 
+distribuíram os modelos com os dois padrões em cada um dos hábitats. Na manhã 
+seguinte, eles contabilizaram modelos danificados ou perdidos.
+Resultados Para cada hábitat, os pesquisadores calcularam a porcentagem de mo-
+delos atacados que tinham ou não camuflagem. Nos dois hábitats, os modelos cujo 
+padrão não se assemelhava ao entorno sofreram “predação” muito mais pronunciada 
+do que os modelos com camuflagem.
+0
+100
+50
+Modelos claros
+Modelos escuros
+Modelos claros
+Modelos escuros
+Porcentagem de
+modelos atacados
+Camuflados
+(controle)
+Camuflados
+(controle)
+Não camuflados
+(experimental)
+Não camuflados
+(experimental)
+Hábitat de praia
+Hábitat continental
+Conclusões Os resultados são consistentes com a previsão dos pesquisadores: mo-
+delos de camundongo com coloração de camuflagem sofreriam predação com menor 
+frequência do que modelos de camundongo não camuflados. Portanto, o experimen-
+to sustenta a hipótese de camuflagem.
+Fonte: S. N. Vignieri, J. G. Larson e H. E. Hoekstra, A vantagem seletiva da camuflagem em camundon-
+gos, Evolução 64:2153-2158 (2010).
+ INTERPRETE OS DADOS  As barras indicam a porcentagem dos modelos atacados 
+que eram claros ou escuros. Suponha que 100 modelos de camundongo fossem atacados 
+em cada hábitat. No caso do hábitat de praia, quantos modelos seriam de coloração clara? 
+E da coloração escura? Responda às mesmas perguntas no caso do hábitat continental.
+BIOLOGIA DE CAMPBELL 
+ 21
+tistas controlam o ambiente experimental para manter 
+tudo estritamente constante exceto aquela variável sendo 
+testada. Entretanto, isso é impossível na pesquisa de cam-
+po e não realístico até mesmo em ambientes laboratoriais 
+altamente regulamentados. Em geral, pesquisadores “con-
+trolam” variáveis indesejáveis ao cancelar seus efeitos utili-
+zando grupos-controle e não ao eliminar esses efeitos por 
+meio da regulação do ambiente.
+Teoria na ciência
+Nossa utilização diária do termo teoria geralmente impli-
+ca uma especulação não testada: “É apenas uma teoria!” 
+Todavia o termo teoria tem significado diferente em 
+ciência. O que é uma teoria científica e o quanto ela difere 
+de uma hipótese ou de mera especulação?
+Em primeiro lugar, a teoria científica tem alcance mui-
+to mais abrangente do que uma hipótese. Isto é uma hipóte-
+se: “A coloração da pelagem que se assemelha ao seu hábitat 
+é uma adaptação que protege camundongos de seus preda-
+dores”. Mas isto é uma teoria: “Adaptações evolutivas sur-
+gem por seleção natural”. Essa teoria propõe que a seleção 
+natural constitui o mecanismo evolutivo responsável pela 
+enorme variedade de adaptações, entre as quais a coloração 
+da pelagem em camundongos é apenas um exemplo.
+Em segundo lugar, uma teoria é geral o suficiente para 
+gerar muitas novas hipóteses específicas que podem ser 
+testadas. Por exemplo, dois pesquisadores da Universidade 
+de Princeton, Peter e Rosemary Grant, foram motivados 
+pela teoria da seleção natural para testar a hipótese especí-
+fica de que os bicos dos tentilhões de Galápagos evoluíram 
+em resposta a mudanças nos tipos de alimento disponível. 
+(Seus resultados sustentaram a hipótese; ver a visão geral 
+do Capítulo 23.)
+Em terceiro lugar, comparada a qualquer outra hipó-
+tese, a teoria é geralmente sustentada por uma quantidade 
+muito maior de evidências. A teoria da seleção natural 
+tem sido sustentada por uma vasta quantidade de evidên-
+cias, quantidade que está sendo aumentada diariamente e 
+nunca foi contrariada por qualquer dado científico. Ou-
+tras teorias similarmente sustentadas incluem a teoria da 
+gravidade e a teoria de que a Terra gira ao redor do sol. 
+As teorias que se tornam amplamente adotadas na ciência 
+(como a teoria da seleção natural) explicam uma grande 
+diversidade de observações e são sustentadas por um vasto 
+acúmulo de evidências. Na verdade, o exame minucioso de 
+teorias continua por meio dos testes das hipóteses especí-
+ficas por elas criadas.
+Apesar da quantidade de evidências dando suporte a 
+teorias amplamente aceitas, os cientistas devem algumas ve-
+zes modificá-las ou mesmo rejeitá-las quando novos méto-
+dos de pesquisa produzem resultados que não se encaixam. 
+Por exemplo, a teoria da diversidade biológica que agrupou 
+bactérias e arqueobactérias em um único reino de procario-
+tos começou a cair quando novos métodos para comparar 
+células e moléculas possibilitaram testar alguns dos paren-
+tescos hipotéticos entre organismos que se baseavam na 
+teoria. Se existe “verdade” na ciência, ela é condicional, com 
+base na preponderância das evidências disponíveis.
+REVISÃO DO CONCEITO 1.3
+ 1. Compare raciocínio indutivo com raciocínio dedutivo.
+ 2. No experimento de camuflagem de camundongo, qual é a 
+variável independente? E a variável dependente? Explique.
+ 3. Por que a seleção natural é considerada uma teoria?
+ 4.  E SE...?  Nos desertos do sudoeste dos Estados Unidos, 
+os solos são basicamente arenosos, com eventuais am-
+plas regiões de pedras escuras derivadas de fluxo de lava 
+que ocorreram há 1,7 milhão de anos. Camundongos são 
+encontrados tanto em regiões arenosas quanto em áreas 
+pedregosas, e corujas são predadores conhecidos dessas 
+regiões. O que você esperaria observar quanto à coloração 
+da pelagem dessas duas populações de camundongo? Ex-
+plique. Como você utilizaria esse ecossistema para testar a 
+hipótese de camuflagem?
+Ver respostas sugeridas no Apêndice A.
+CONCEITO 1.4
+A ciência faz uso de uma abordagem 
+cooperativa e de diversos pontos de vista
+Filmes e desenhos animados algumas vezes retratam cien-
+tistas como pessoas solitárias trabalhando em laboratórios 
+isolados. Na realidade, a ciência é uma atividade social in-
+tensa. A maioria dos cientistas trabalha em equipes, que 
+geralmente incluem tanto alunos de pós-graduação quan-
+to graduação. Ter um bom nível de comunicação auxilia 
+muito quem quer ser bem-sucedido na ciência. Resultados 
+científicos não têm qualquer importância até que sejam 
+compartilhados entre a comunidade científica a partir de 
+seminários, publicações e sites de internet.
+Aprimorando o trabalho de outros
+O grande cientista Isaac Newton disse uma vez que “Expli-
+car a natureza na sua totalidade é uma tarefa muito difícil 
+para uma única pessoa ou mesmo geração. É muito melhor 
+produzir um pouco com grande nível de certeza e deixar o 
+resto para os outros que virão depois de você...”. Qualquer 
+pessoa que se torna cientista, movida pela curiosidade de 
+como a natureza funciona, tem a garantia de se beneficiar 
+consideravelmente pela riqueza das descobertas de outros 
+que tenham pesquisado antes. Na verdade, o experimento 
+de Hopi Hoekstra se baseou no trabalho de outro pesqui-
+sador, D. W. Kaufman, 40 anos antes. Você pode estudar o 
+desenho do experimento de Kaufman e interpretar os re-
+sultados no Exercício de Habilidades Científicas.
+Resultados científicos são continuamente examinados 
+a partir da repetição de observações e experimentos. Cien-
+tistas trabalhando no mesmo campo de pesquisa geral-
+mente examinam as afirmações uns dos outros pela confir-
+mação de observações ou repetição de observações. Caso 
+experimentos não possam ser reproduzidos por colabora-
+dores científicos, essa falha pode refletir alguma fraqueza 
+subjacente na afirmação original, a qual então terá de ser 
+revisada. Nesse sentido, a ciência se autopolicia. A integri-
+dade e a adesão a altos padrões profissionais ao relatar os 
+resultados são cruciais para o esforço científico. Afinal de 
+contas, a validade de dados experimentais é essencial para
+projetar novas linhas de pesquisa.
+Não é muito incomum ver diversos cientistas conver-
+girem à mesma questão científica. Alguns cientistas apre-
+ciam o desafio de serem os primeiros em uma importante 
+descoberta ou experimento chave, enquanto outros obtêm 
+mais satisfação em cooperarem com colegas do campo 
+científico trabalhando no mesmo problema.
+A cooperação é sempre facilitada quando cientistas 
+utilizam o mesmo organismo. Este é geralmente um or-
+ganismo-modelo amplamente utilizado – espécie de fácil 
+crescimento em laboratório e particularmente apropriada 
+para o uso na questão que está sendo investigada. Uma vez 
+que todas as espécies são evolutivamente relacionadas, esse 
+organismo pode ser visto como um modelo para entender 
+a biologia de outras espécies e suas doenças. Por exemplo, 
+estudos genéticos com a mosca-das-frutas, Drosophila 
+melanogaster, têm nos ensinado muito a respeito de como 
+os genes funcionam em outras espécies, até mesmo em se-
+res humanos. Entre outros organismos-modelo populares 
+estão a planta da mostarda Arabidopsis thaliana, o verme 
+de solo Caenorhabditis elegans, o Zebrafish Danio rerio, o 
+camundongo Mus musculus e a bactéria Escherichia coli. 
+No decorrer da leitura deste livro, preste atenção na gran-
+de quantidade de contribuições que esses e outros organis-
+mos-modelo têm feito pelo estudo da vida.
+Biólogos podem abordar questões interessantes a par-
+tir de diferentes ângulos. Alguns biólogos focalizam ecos-
+sistemas, enquanto outros estudam fenômenos naturais 
+em nível de organismos ou células. Este texto está dividi-
+EXERCÍCIO DE HABILIDADES CIENTÍFICAS
+Interpretando um par de gráficos de barra
+Em que proporção a camuflagem afeta o nível de 
+predação de camundongos por corujas na presença 
+ou ausência de luar? D. W. Kaufman investigou o efeito da 
+camuflagem da presa sobre o nível de predação. Kaufman testou a 
+hipótese de que o nível de contraste entre a coloração da pelagem 
+de um camundongo e a cor do seu entorno afetaria a taxa de pre-
+dação noturna por corujas. Ele também hipotetizou que o contraste 
+de cor seria afetado pela quantidade de luar. Neste exercício, você 
+analisará dados obtidos nos seus estudos de predação coruja-
+-camundongo.
+Como o experimento foi realizado Pares de camundongos 
+(Peromyscus polionotus) com distintas colorações de pelagem 
+(marrom-clara e marrom-escura) foram soltos simultaneamente 
+em um cercado que continha uma coruja faminta. O pesquisador 
+tomou nota da coloração do primeiro camundongo a ser capturado 
+pela coruja. No caso da coruja não capturar nenhum dos dois tipos 
+de camundongo dentro do período de 15 minutos, o teste levava 
+um escore de zero. As investidas de liberação foram repetidas múl-
+tiplas vezes em cercados com superfície de solo de coloração escura 
+ou clara. A presença ou ausência de luar durante cada ensaio foi 
+registrada.
+Dados do experimento
+0
+40
+35
+30
+25
+20
+15
+10
+5
+Lua cheia
+Lua nova
+A: Solo de coloração clara
+Pelagem clara
+Pelagem escura
+Número de camundongos capturados
+Número de camundongos capturados
+0
+40
+35
+30
+25
+20
+15
+10
+5
+Lua cheia
+Lua nova
+B: Solo de coloração escura
+Pelagem clara
+Pelagem escura
+Interprete os dados
+ 1. Primeiramente, assegure a compreensão de como os gráficos 
+funcionam. O gráfico A apresenta dados do cercado com solo 
+de coloração clara e o gráfico B apresenta dados do cercado 
+com solo de coloração escura, mas em todos os outros quesi-
+tos, os gráficos são 
+iguais. (a) Há mais 
+de uma variável in-
+dependente nestes 
+gráficos. Quais são 
+as variáveis indepen-
+dentes, as variáveis 
+que foram testadas 
+pelo pesquisador? 
+Qual eixo dos grá-
+ficos tem as variáveis 
+independentes? (b) Qual é a variável dependente, a resposta às 
+variáveis sendo testadas? Qual eixo dos gráficos tem a variável 
+dependente?
+ 2. (a) Quantos camundongos de coloração marrom-escura foram 
+capturados no cercado com solo de coloração clara em uma 
+noite de lua cheia? (b) Quantos camundongos de coloração 
+marrom-escura foram capturados no cercado com solo de co-
+loração escura em uma noite de lua cheia? (c) Em noite de lua 
+cheia, um camundongo com coloração marrom-escura estaria 
+mais propenso a escapar de predação por corujas em solos de 
+coloração escura ou clara? Explique.
+ 3. (a) Um camundongo marrom-escuro em um solo de coloração 
+escura estaria mais propenso a escapar de predação em noite 
+de lua cheia ou lua nova? (b) E um camundongo marrom-claro 
+em solo de coloração clara? Explique.
+ 4. (a) Sob que condições um camundongo marrom-escuro estaria 
+mais propenso a escapar de predação noturna? E um camun-
+dongo marrom-claro?
+ 5. (a) Que combinação de variáveis independentes levou ao 
+maior nível de predação em cercados com solo de coloração 
+clara? (b) Que combinação de variáveis independentes levou 
+ao maior nível de predação em cercados com solo de colora-
+ção escura? (c) Qual a relação, se existente, você vê em suas 
+respostas para (a) e (b)?
+ 6. Que condições são mais letais tanto para camundongos de 
+coloração marrom-clara e escura?
+ 7. Ao combinar os dados apresentados nos dois gráficos, estime 
+o número total de camundongos capturados em condições de 
+pleno luar e sem luar. Que condição é ótima para predação de 
+camundongos por corujas? Explique sua resposta.
+Dados de D. W. Kaufman, Coloração adaptativa em Peromyscus 
+polionotus: Seleção experimental por corujas, Journal of Mammalogy 
+55:271-283 (1974).
+BIOLOGIA DE CAMPBELL 
+ 23
+do em unidades que apresentam a biologia em diferentes 
+níveis. Qualquer problema específico pode ser resolvido 
+a partir de várias perspectivas, que podem na verdade 
+complementar uma a outra. Por exemplo, o trabalho de 
+Hoekstra revelou pelo menos uma mutação genética que 
+é responsável pela diferença entre a coloração do camun-
+dongo de praia e a do camundongo de terra. Seu labora-
+tório dispõe de biólogos com especialização em diferentes 
+níveis biológicos, o que possibilita a ligação entre as adap-
+tações evolutivas nas quais ela se foca e suas bases molecu-
+lares nas sequências de DNA.
+Na condição de aluno de biologia, você pode tirar pro-
+veito da produção de conexões entre os diferentes níveis 
+da biologia. Você pode desenvolver essa habilidade ao per-
+ceber quando alguns tópicos aparecem continuamente em 
+diferentes unidades deste livro. Um desses tópicos é a ane-
+mia falciforme, condição genética que é prevalente entre 
+habitantes nativos da África e outras regiões quentes e seus 
+descendentes. A anemia falciforme aparecerá em várias 
+unidades do texto, cada vez relacionada a um novo nível. 
+Além disso, nós produzimos diversas figuras que fazem co-
+nexões entre o conteúdo de cada capítulo, assim como per-
+guntas que lhe exigem fazer conexões por conta própria. 
+Esperamos que esses acessórios lhe ajudem a integrar esse 
+material e aumentar seu prazer com a biologia ao encorajá-
+-lo a manter a ideia global em mente.
+Ciência, tecnologia e sociedade
+A comunidade científica é parte da sociedade como um 
+todo, e a relação da ciência com a sociedade se torna cada 
+vez mais clara quando adicionamos tecnologia ao panora-
+ma (ver Figura 1.23). Embora a ciência e a tecnologia algu-
+mas vezes empreguem padrões similares de pesquisa, seus 
+objetivos básicos diferem. O objetivo da ciência é entender 
+fenômenos naturais, enquanto a tecnologia geralmente 
+aplica o conhecimento científico para certos propósitos 
+específicos. Em geral, biólogos e outros cientistas falam 
+de “descobertas”, e engenheiros e outros tecnológos falam 
+com mais frequência de “invenções”. Entre os beneficiários 
+dessas invenções estão os cientistas, que põem em prática 
+novas tecnologias para trabalhar em suas pesquisas. Por-
+tanto, ciência e tecnologia são interdependentes.
+A combinação potente da ciência e da tecnologia tem 
+efeitos significativos na sociedade. Algumas vezes, as mais 
+benéficas aplicações da pesquisa básica surgem do nada, 
+oriundas de observações completamente inesperadas no 
+curso da exploração científica. Por exemplo, a descoberta 
+da estrutura do DNA por Watson e Crick há 60 anos e os 
+avanços posteriores na ciência do DNA conduziram às tec-
+nologias de engenharia do DNA que estão revolucionando 
+muitos campos aplicados, incluindo medicina, agricultura 
+e medicina forense (Figura 1.26). Talvez Watson e Crick 
+tenham imaginado que sua descoberta resultaria um dia em 
+importantes aplicações, mas é improvável que pudessem 
+predizer com precisão como seriam todas essas aplicações.
+Os rumos que a tecnologia toma dependem menos da 
+curiosidade que move a ciência básica do que das necessi-
+dades e dos desejos atuais das pessoas e do ambiente social 
+do período. Debates sobre tecnologia estão mais centra-
+dos no “convém fazer isso” do que “somos capazes de fazer 
+isso”. Os avanços na tecnologia geram difíceis escolhas. Por 
+exemplo, sob quais circunstâncias é aceitável utilizar a tec-
+nologia do DNA para descobrir se determinadas pessoas 
+têm genes para doenças hereditárias? Será que esses tes-
+tes genéticos deveriam ser sempre voluntários, ou existem 
+circunstâncias em que deveriam ser obrigatórios? Será que 
+companhias de seguro e empregadores deveriam ter acesso 
+às informações, assim como a muitos outros dados referen-
+tes à saúde pessoal? Essas questões estão se tornando cada 
+vez mais urgentes, ao passo que o sequenciamento de ge-
+nomas individuais se torna cada vez mais rápido e barato.
+Os temas éticos alavancados por essas questões têm 
+a ver tanto com valores políticos, econômicos e culturais 
+quanto com ciência e tecnologia. Todos os cidadãos – não 
+apenas cientistas profissionais – têm a responsabilidade de 
+serem informados sobre como a ciência funciona e sobre 
+os potenciais benefícios e riscos da tecnologia. A relação 
+entre ciência, tecnologia e sociedade aumenta a importân-
+cia e o valor de qualquer curso de biologia.
+O valor de pontos de vista diversificados
+Muitas das inovações tecnológicas com o impacto mais 
+profundo na sociedade humana foram originadas em po-
+voados ao longo de rotas de troca, em que uma rica mistu-
+ra de diferentes culturas favoreceu a formulação de novas 
+ideias. Por exemplo, a imprensa, que ajudou a disseminar o 
+conhecimento a todas as classes sociais e, em última análi-
+se, produziu este livro que você folheia, foi inventada pelo 
+alemão Johannes Gutenberg perto de 1440. Essa invenção 
+dependia de diversas inovações da China, incluindo papel 
+e tinta. O papel era transportado ao longo de rotas de tro-
+ca da China até Bagdá, onde a tecnologia era desenvolvi-
+ Figura 1.26 Tecnologia do DNA e investigações de cenas 
+de crime. Em 2011, a análise forense de amostras de DNA de uma 
+cena de crime resultou na liberação de Michael Morton da prisão 
+após ele cumprir quase 25 anos de pena por um crime que ele não 
+cometeu, o assassinato brutal da sua esposa. A análise do DNA ligou 
+outro homem, também condenado em um segundo assassinato, a 
+este crime. A foto mostra o Sr. Morton abraçando seus pais após 
+sua condenação ser anulada. Os detalhes da análise forense de DNA 
+serão descritos no Capítulo 20.
+24 
+ 
+REECE, URRY, CAIN, WASSERMAN, MINORSKY & JACKSON
+da para sua produção em massa. Essa tecnologia migrou 
+então para a Europa, assim como a tinta à base d’água da 
+China, que foi modificada por Gutenberg para se tornar 
+tinta à base de óleo. Temos de ser gratos à miscigenação de 
+culturas diversificadas pela imprensa, e o mesmo pode ser 
+dito para outras importantes invenções.
+Na mesma linha de raciocínio, a ciência tem muito 
+a ganhar ao levar em conta uma diversidade de conheci-
+mentos e pontos de vista entre seus praticantes. Mas quão 
+diversificada é uma população de cientistas em relação a 
+gênero, raça, etnias e outros atributos?
+A comunidade científica reflete os padrões e compor-
+tamentos culturais da sociedade ao seu redor. Portanto, 
+não é de se surpreender que, até recentemente, mulheres e 
+certas minorias tenham enfrentado imensos obstáculos na 
+sua busca para se tornar cientistas profissionais em muitos 
+países ao redor do mundo. Ao longo dos últimos 50 anos, 
+mudanças nas escolhas por carreiras de trabalho têm au-
+mentado a proporção de mulheres na biologia e algumas 
+outras ciências, de forma que, agora, as mulheres consti-
+tuem aproximadamente metade dos alunos de graduação e 
+doutorado em biologia. Entretanto, o ritmo tem sido mais 
+lento em níveis mais altos da profissão, e mulheres e di-
+versos grupos raciais e étnicos ainda são significativamente 
+subrrepresentados em muitos ramos da ciência. Essa fal-
+ta de diversidade dificulta o progresso da ciência. Quanto 
+mais vozes forem ouvidas à mesa, mais robusto, valioso e 
+produtivo será o intercâmbio científico. Os autores deste 
+livro dão as boas-vindas a todos os estudantes à comuni-
+dade dos biólogos, desejando-lhe as alegrias e os contenta-
+mentos deste empolgante campo da ciência.
+REVISÃO DO CONCEITO 1.4
+ 1. Qual a diferença entre ciência e tecnologia?
+ 2.  FAÇA CONEXÕES  O gene que causa a anemia falciforme 
+está presente em porcentagem mais alta em habitantes da 
+África subsaariana do que entre aqueles de descendência 
+africana vivendo nos Estados Unidos. Esse gene fornece cer-
+ta proteção contra malária, grave doença amplamente disse-
+minada na África subsaariana. Discuta um processo evoluti-
+vo que possa ser responsável pelas diferentes porcentagens 
+entre habitantes das duas regiões. (Ver Conceito 1.2.)
+Ver respostas sugeridas no Apêndice A.
+1
+Revisão do capítulo
+RESUMO DOS CONCEITOS-CHAVE
+CONCEITO 1.1
+O estudo da vida revela temas comuns (p. 2-9)
+Tema organização: novas propriedades emergem em cada 
+nível da hierarquia biológica
+d A hierarquia da vida ocorre na seguinte ordem: 
+biosfera . ecossistema . comunidade . po-
+pulação . organismo . sistema de órgãos 
+. órgão . tecido . célula . organela . 
+molécula . átomo. Para cada etapa “acima” 
+dos átomos, novas propriedades emergen-
+tes resultam da interação entre os componentes 
+dos níveis inferiores. Em uma abordagem denominada 
+reducionismo, sistemas complexos são desmembrados em 
+componentes mais simples e mais fáceis de estudar. Na biologia de 
+sistemas, os cientistas investem esforços para modelar o compor-
+tamento dinâmico de sistemas biológicos completos ao estudar as 
+interações entre as partes dos sistemas.
+d A estrutura e a função de componentes biológi-
+cos estão correlacionadas. A célula, a unidade 
+básica estrutural e funcional de um organis-
+mo, é o nível mais baixo de organização capaz 
+de desempenhar todas as atividades necessá-
+rias para a vida. As células podem ser proca-
+rióticas ou eucarióticas. Células eucarióticas 
+contêm organelas envoltas por membrana, incluindo um núcleo 
+que abriga o DNA. Células procarióticas carecem dessas organe-
+las envoltas por membrana.
+Tema Informação: os processos da vida envolvem a expressão 
+e transmissão de informação genética
+d A informação genética é codificada nas se-
+quências nucleotídicas de DNA. É o DNA que 
+transmite a informação hereditária dos pais 
+para a prole. Sequências de DNA denomina-
+das genes programam a produção proteica de 
+uma célula ao serem transcritos em RNAm e 
+então traduzidos em proteínas específicas, em 
+um processo denominado expressão gênica. 
+A expressão gênica também resulta em tipos de 
+RNA que não se traduzem em proteínas, mas 
+exercem outras importantes funções. A genô-
+mica constitui a análise em larga escala das se-
+quências de DNA de uma espécie (seu genoma) 
+assim como a comparação de genomas entre espécies. A bioinfor-
+mática utiliza ferramentas computacionais para lidar com grandes 
+volumes de dados de sequências.
+Tema de energia e matéria: a vida requer a transferência e 
+transformação de energia e matéria
+d A energia flui por um ecos-
+sistema. Todos os organis-
+mos devem desempenhar 
+funções, o que requer ener-
+gia. Os produtores conver-
+tem energia solar em ener-
+gia química, parte da qual é 
+passada aos consumidores. 
+(O resto é perdido na forma 
+de calor.) Compostos quí-
+micos são ciclados entre os 
+organismos e o ambiente.
+   
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+C
+I
+C
+L
+A
+G
+E
+M
+ 
+Q
+U
+Í
+M
+I
+C
+A
+C
+I
+C
+L
+A
+U
+Í
+M
+I
+C
+A
+FLUXO DE ENERGIA
+BIOLOGIA DE CAMPBELL 
+ 25
+Tema interações: de ecossistemas a moléculas, as interações 
+são fundamentais nos sistemas biológicos
+d Organismos interagem continua-
+mente com fatores físicos. Plantas 
+captam nutrientes do solo e com-
+postos químicos do ar e utilizam a 
+energia solar. As interações entre 
+plantas, animais e outros organis-
+mos afeta os participantes de diver-
+sas formas.
+d Na regulação por retroalimentação, um 
+processo é regulado pelo seu rendimento ou 
+produto final. No caso da retroalimentação ne-
+gativa, o acúmulo do produto final desacelera 
+a sua produção. No caso da retroalimentação 
+positiva, o produto final acelera a sua própria 
+produção. A retroalimentação é um tipo de re-
+gulação comum à vida em todos os níveis, des-
+de moléculas até ecossistemas.
+Evolução, o tema central da biologia
+d Evolução, o processo de mudança que tem 
+transformado a vida na Terra, é responsável 
+pela uniformidade e diversidade da vida. Ela 
+também explica as adaptações evolutivas – 
+o ajuste de organismos aos seus ambientes.
+ ?  Por que a evolução é considerada o tema central da biologia?
+CONCEITO 1.2
+O tema central: a evolução é responsável pela 
+uniformidade e diversidade da vida (p. 10-15)
+d Biólogos classificam espécies segundo um sistema e agrupamen-
+to cada vez mais abrangente. O domínio Bacteria e o domínio 
+Archaea consistem em procariotos. O domínio Eukarya, os euca-
+riotos, inclui vários grupos de protistas e os reinos Plantae, Fungi e 
+Animalia. Ainda que a vida seja tão diversificada, há também evi-
+dências de uniformidade, revelada nas semelhanças entre diferen-
+tes tipos de organismos.
+d Darwin propôs que a seleção natural é o mecanismo de adaptação 
+evolutiva de populações aos seus ambientes.
+População de organismos
+Fatores
+ambientais
+Variações
+hereditárias
+Superprodução de
+prole e competição
+Diferenças no sucesso
+reprodutivo de indivíduos
+Evolução de adaptações na população
+d Cada espécie representa um ramo de uma bifurcação na árvore da 
+vida que pode ser estendida ao passado em espécies ancestrais cada 
+vez mais remotas. Tudo na vida pode se conectar a partir da sua 
+longa história evolutiva.
+ ?  Como a seleção natural poderia ter induzido a evolução de adapta-
+ções como a estrutura em forma de paraquedas que dissemina a semen-
+te apresentada na primeira página deste capítulo?
+CONCEITO 1.3
+Ao estudar a natureza, os cientistas fazem 
+observações, formulam e testam-nas (p. 15-21)
+d Na pesquisa científica, cientistas fazem observações (coletam da-
+dos) e utilizam argumentação indutiva para chegar a uma con-
+clusão geral, que pode se desenvolver em uma hipótese testável. 
+O raciocínio dedutivo permite previsões, que podem ser utili-
+zadas para testar hipóteses. Hipóteses necessitam ser testáveis; a 
+ciência não trabalha com a possibilidade de fenômenos sobrena-
+turais ou com a credibilidade de crenças religiosas. Hipóteses po-
+dem ser testadas a partir de experimentação ou, quando é possível, 
+a partir de observações. No processo da ciência, a atividade central 
+consiste em testar ideias. Esse empenho é influenciado por três are-
+nas: exploração e descobrimento, análise comunitária e parecer, e 
+benefícios sociais e consequências. Testar ideias, por sua vez, tam-
+bém afeta cada uma destas buscas.
+d Experimentos controlados, como o estudo que investigou a colo-
+ração da pelagem de populações de camundongo, são desenvolvi-
+dos para demonstrar o efeito de uma variável ao testar grupos-con-
+trole e grupos experimentais que diferem em apenas uma variável.
+d Uma teoria científica é ampla em alcance, gera novas hipóteses, e é 
+sustentada por um grande volume de evidências.
+ ?  Qual é a necessidade de coletar e interpretar dados no processo de 
+pesquisa científica?
+CONCEITO 1.4
+A ciência faz uso de uma abordagem cooperativa e de 
+diversos pontos de vista (p. 21-24)
+d A ciência é uma atividade social. O trabalho de cada cientista se 
+acrescenta ao trabalho de outros que vieram anteriormente. Cien-
+tistas devem ser capazes de reproduzir os resultados uns dos ou-
+tros, de forma que a integridade é vital. Biólogos abordam questões 
+em diferentes níveis; suas abordagens se complementam.
+d A tecnologia consiste em um método ou dispositivo que aplica 
+o conhecimento científico para uma razão específica que afeta a 
+sociedade. O derradeiro impacto da ciência básica nem sempre é 
+evidente de imediato.
+d A diversidade entre os cientistas promove o progresso da ciência.
+ ?  Explique por que diferentes abordagens e experiências diversificadas 
+são importantes entre cientistas.
+TESTE SEU CONHECIMENTO
+NÍVEL 1: CONHECIMENTO/COMPREENSÃO
+ 1. Todos os organismos no seu campus formam:
+ a. um ecossistema.
+ b. uma comunidade.
+ c. uma população.
+ d. um domínio taxonômico.
+ 2. Qual é a sequência correta de níveis na hierarquia da vida, indo 
+para baixo a partir de um animal individual?
+ a. Organismo, cérebro, sistema de órgãos, célula nervosa.
+ b. Sistema de órgãos, tecido nervoso, cérebro, célula nervosa.
+ c. Organismo, sistema de órgãos, tecido, célula, órgão.
+ d. Sistema nervoso, cérebro, tecido nervoso, célula nervosa.
+RESPOSTA
+Retroalimentação negativa
+ESTÍMULO
+–
+26 
+ 
+REECE, URRY, CAIN, WASSERMAN, MINORSKY & JACKSON
+ 3. Qual das seguintes não é uma observação ou inferência em que a 
+teoria da seleção natural de Darwin se baseia?
+ a. Indivíduos pouco adaptados nunca produzem prole.
+ b. Há variação hereditária entre indivíduos.
+ c. Devido à superprodução de prole, há competição por recur-
+sos limitados.
+ d. Uma população pode adaptar-se ao ambiente ao longo do 
+tempo.
+ 4. Biologia de sistemas é basicamente uma tentativa de:
+ a. analisar genomas de diferentes espécies.
+ b. simplificar problemas complexos ao reduzir o sistema a uni-
+dades menores e menos complexas.
+ c. entender o comportamento de todo um sistema biológico 
+ao estudar as interações entre as partes que o compõe.
+ d. construir aparelhos de “alta processividade” para a rápida 
+aquisição de dados biológicos.
+5. Protistas e bactérias são agrupados em diferentes domínios
+porque:
+ a. protistas comem bactérias.
+ b. bactérias não são constituídas de células.
+ c. protistas têm um núcleo envolto por membrana.
+ d. protistas são fotossintéticos.
+ 6. Qual alternativa demonstra a uniformidade entre todos os orga-
+nismos?
+ a. Propriedades emergentes.
+ b. Descendência com modificação.
+ c. A estrutura e função do DNA.
+ d. Seleção natural.
+ 7. Um experimento controlado:
+ a. progride de forma lenta o suficiente para que um cientista 
+possa fazer registros dos resultados cuidadosamente.
+ b. pode incluir grupos experimentais e grupos-controle para-
+lelamente testados.
+ c. é repetido muitas vezes para garantir a precisão dos resultados.
+ d. mantém todas as variáveis constantes.
+ 8. Na ciência, qual das seguintes afirmações distingue hipóteses de 
+teorias?
+ a. Teorias são hipóteses comprovadas.
+ b. Hipóteses são palpites; teorias são respostas corretas.
+ c. Hipóteses são, em geral, relativamente restritas em alcance; 
+teorias têm amplo poder explicativo.
+ d. Teorias são comprováveis em todos os casos; hipóteses são 
+geralmente refutadas por resultados experimentais.
+NÍVEL 2: APLICAÇÃO/ANÁLISE
+ 9. Qual das alternativas seguintes é um exemplo de dado qualita-
+tivo?
+ a. O peixe nadou em movimentos de zigue-zague.
+ b. O conteúdo do estômago é misturado a cada 20 segundos.
+ c. A temperatura decresceu de 20ºC para 15ºC.
+ d. Os seis pares de pardais chocaram em média três filhotes 
+cada par.
+ 10. Qual das seguintes alternativas descreve a lógica da pesquisa 
+científica?
+ a. Se eu gerar uma hipótese testável, testes e observações irão 
+sustentá-la.
+ b. Se minha predição estiver correta, ela me levará a uma hi-
+pótese testável.
+ c. Se minhas observações estiverem precisas, elas irão susten-
+tar minha hipótese.
+ d. Se minha hipótese estiver correta, eu posso esperar certos 
+resultados do teste.
+ 11.  DESENHE  A partir de um breve esboço, desenhe uma hierar-
+quia biológica similar a da Figura 1.3, mas utilizando um recife 
+de coral como ecossistema, um peixe como o organismo, seu es-
+tômago como o órgão e o DNA como a molécula. Inclua todos os 
+níveis na hierarquia.
+NÍVEL 3: SÍNTESE/AVALIAÇÃO
+ 12. CONEXÃO EVOLUTIVA
+Uma típica célula procariótica tem aproximadamente 3 mil ge-
+nes no seu DNA, enquanto uma célula humana tem cerca de 
+21 mil genes. Cerca de mil desses genes estão presentes nos dois 
+tipos de células. Com base em sua compreensão sobre evolução, 
+explique como organismos tão diferentes podem ter esse mesmo 
+conjunto de genes. Que tipos de funções podem ter esses genes 
+compartilhados?
+ 13. PESQUISA CIENTÍFICA
+Com base nos resultados do estudo de coloração de camundon-
+go, sugira outra hipótese que os cientistas possam utilizar para 
+estender a investigação do papel de predadores no processo de 
+seleção natural.
+ 14. ESCREVA SOBRE UM TEMA: EVOLUÇÃO
+Em um ensaio sucinto (100-150 palavras), discuta a visão de 
+Darwin de como a seleção natural resultou na uniformidade e 
+diversidade da vida na Terra. Inclua na sua discussão um pouco 
+das suas evidências.
+ 15.  SINTETIZE SEU CONHECIMENTO 
+Você consegue identificar o lagarto rugoso com cauda em forma 
+de folha agarrado ao troco da árvore nesta foto? Como o aspecto 
+pode beneficiar este lagarto em termos de sobrevivência? Con-
+siderando o seu aprendizado sobre evolução, seleção natural e 
+informação genética neste capítulo, descreva como a coloração 
+do lagarto pode ter evoluído.
+Ver respostas sugeridas no Apêndice A.
+U N I D A D E
+1
+A QUÍMICA DA VIDA
+U M A  E N T R E V I S TA  C O M
+Venki Ramakrishnan
+Venkatraman (Venki) Ramakrishanan, nascido 
+na Índia, bacharelou-se pela Baroda University 
+e concluiu o doutorado (Ph.D.) em física pela 
+Ohio University. Ao mudar para a biologia, ele 
+dedicou dois anos de estudos na University of 
+California, San Diego, seguido de um trabalho 
+de pós-doutorado na Yale University, onde co-
+meçou a estudar ribossomos. Ele trabalhou 12 
+anos no Laboratório Nacional Brookhaven e 
+mais quatro anos na University of Utah, antes 
+de se transferir, em 1999, para o Laboratório de 
+Biologia Molecular MRC (Medical Research Council) em Cam-
+bridge, Inglaterra. Em 2009, ele recebeu o Prêmio Nobel em quí-
+mica, pela pesquisa sobre estrutura e função ribossomal.
+Conte sobre sua mudança da física para a biologia
+Enquanto cursava a pós-graduação em física, verifiquei que 
+não me envolvia com o trabalho e ficava distraído. Entre ou-
+tras coisas, eu dedicava meu tempo lendo Scientific American 
+e ficava fascinado pelo crescimento explosivo da biologia. 
+Cada mês havia uma grande nova descoberta! Então pensei 
+comigo: vou para a biologia. Escrevi para algumas universi-
+dades perguntando se poderia me inscrever em seu curso de 
+doutorado em biologia. A razão era que eu não sabia biologia. 
+Assim, acabei ingressando 
+na UC de San Diego como 
+estudante de doutorado 
+em biologia. Percebi que 
+estava aprendendo bem 
+pouco sobre biologia e, na 
+verdade, não precisava de 
+um segundo título de Ph.D. 
+Assim, naquela época fui 
+para Yale trabalhar com ri-
+bossomos.
+O que é um ribossomo?
+Um ribossomo (ver abaixo) é uma das estru-
+turas mais fundamentais em toda a biologia. 
+Ele é uma reunião de muitas proteínas di-
+ferentes e grandes segmentos de RNA, que 
+constituem dois terços da sua massa e, na 
+verdade, desempenham papéis-chave no seu 
+funcionamento. O ribossomo pega a infor-
+mação no RNA transcrito a partir de um gene 
+e depois se liga a uma sequência específica de 
+aminoácidos para formar uma proteína. Tudo 
+que é formado pela célula é feito por ribosso-
+mos ou por proteínas denominadas enzimas, 
+que são feitas por ribossomos.
+O ribossomo é a interface entre a informação genética e 
+como as coisas, na verdade, atuam. De certa forma, ele está na 
+encruzilhada da biologia. Por isso, no mundo inteiro pessoas 
+têm devotado décadas para tentar entender como o ribosso-
+mo trabalha.
+Como você estuda a estrutura do ribossomo?
+Existem muitos ribossomos em cada célula – muitos milhares 
+em células que produzem muitas proteínas, como as células 
+do fígado ou as bactérias crescendo ativamente. Hoje, quase 
+todo o trabalho que realizamos envolve ribossomos bacteria-
+nos. Cultivamos bactérias em um grande fermentador, as de-
+compomos e purificamos seus ribossomos. Para determinar 
+sua estrutura, nós as cristalizamos e, após, empregamos uma 
+técnica denominada cristalografia por raios X. Após a cristali-
+zação, o padrão disperso produzido quando os raios X passam 
+em um cristal pode ser convertido em uma imagem detalhada 
+por análise computacional.
+Por que a estrutura de um ribossomo é útil para 
+compreender sua função?
+Posso apresentar para você uma analogia. Suponha que al-
+guns marcianos venham visitar a Terra. Eles flutuam por aí 
+e observam todas essas máquinas andando para lá e para cá 
+nas ruas – os carros. Ora, se eles não conhecem os detalhes 
+da estrutura do carro, a única coisa que podem dizer é que 
+a gasolina entra e o dióxido de carbono e a água são expe-
+lidos (junto com alguns poluentes). O carro se movimenta 
+em consequência disso, mas eles não seriam capazes de dizer 
+como ele funciona. Para dizer como o carro funciona, eles te-
+riam de observar em detalhe: precisariam abrir o capô, olhar 
+o motor, ver como todas as partes estão conectadas e assim 
+por diante.
+O ribossomo pode ser considerado uma máquina mo-
+lecular. Jamais poderíamos compreender como um ribosso-
+mo funciona, se não conhecêssemos sua estrutura molecu-
+lar. Conhecer a estrutura em detalhe significa ser capaz de 
+realizar experimentos para descobrir em detalhe como ela 
+funciona.
+“Jamais poderíamos 
+entender como um 
+ribossomo funciona, 
+se não conhecêssemos 
+sua estrutura 
+molecular.”
+ Modelo computadorizado 
+de um ribossomo.
+Uma conexão química para a biologia
+C
+omo outros animais, as formigas têm estruturas e mecanismos que as de-
+fendem de ataques. As formigas-da-madeira vivem em colônias de cen-
+tenas ou milhares, e a colônia como um todo tem um mecanismo particular-
+mente eficaz para lidar com inimigos. Quando ameaçadas, dos seus abdomens 
+as formigas-da-madeira disparam rajadas de ácido fórmico para o ar, e o ácido 
+cai sobre os potenciais invasores (Figura 2.1). Essa substância é produzida 
+por muitas espécies de formigas e, na verdade, seu nome deriva da palavra 
+latina formica (formiga). Em muitas espécies de formigas, o ácido fórmico não 
+é disparado, mas provavelmente sirva como desinfetante que as protege contra 
+parasitos microbianos. Os cientistas há muito sabem que as substâncias quí-
+micas exercem um papel importante na comunicação dos insetos, na atração
+de acasalamentos e na defesa contra predadores.
+A pesquisa sobre formigas e outros insetos é um bom exemplo de quão 
+relevante é a química para o estudo da vida. Diferentemente das estrutu-
+ras curriculares, a natureza não é idealmente compartimentada em ciên-
+cias individuais – biologia, química, física e assim por diante. Os biólogos 
+se especializam no estudo da vida, mas os organismos e os seus ambientes 
+são sistemas naturais aos quais se aplicam os conceitos de química e física. 
+A biologia é multidisciplinar.
+Esta unidade de capítulos introduz alguns conceitos básicos de química 
+que se aplicam ao estudo da vida. Em alguma parte na transição de molé-
+culas para células, atravessaremos o nebuloso limite entre o inanimado e 
+o vivo. Este capítulo focaliza os componentes químicos que constituem a 
+matéria.
+ Figura 2.1 Que arma essas formigas-da-madeira es-
+tão disparando para o ar?
+2
+O Contexto Químico da Vida
+C O N C E I T O S - C H A V E
+ 2.1 A matéria consiste em ele-
+mentos químicos na forma 
+simples e em combinações 
+denominadas compostos
+ 2.2 As propriedades de um ele-
+mento dependem da estru-
+tura dos seus átomos
+ 2.3 A formação e a função das 
+moléculas dependem das 
+ligações químicas entre os 
+átomos
+ 2.4 As reações químicas for-
+mam e rompem ligações 
+químicas
+BIOLOGIA DE CAMPBELL 
+ 29
+CONCEITO 2.1
+A matéria consiste em elementos 
+químicos na forma simples e em combinações 
+denominadas compostos
+Os organismos são compostos de matéria, que é algo que 
+ocupa espaço e tem massa.
+1 A matéria existe em muitas 
+formas. Rochas, metais, óleos, gases e organismos vivos 
+são alguns exemplos do que parece ser uma diversidade 
+infinita de matéria.
+Elementos e compostos
+A matéria é feita de elementos. Um elemento é uma subs-
+tância que não pode ser decomposta em outras substâncias 
+por reações químicas. Atualmente, os químicos reconhe-
+cem 92 elementos que ocorrem na natureza: ouro, cobre, 
+carbono e oxigênio são exemplos. Cada elemento tem um 
+símbolo, geralmente a primeira letra ou as duas primeiras 
+letras do seu nome. Alguns símbolos são derivados do la-
+tim ou do alemão; por exemplo, o símbolo do sódio é Na, 
+da palavra latina natrium.
+Um composto é uma substância que consiste em dois 
+ou mais elementos diferentes combinados em uma propor-
+ção definida. O sal de cozinha, por exemplo, é cloreto de só-
+dio (NaCl), um composto constituído pelos elementos sódio 
+(Na) e cloro (Cl) na proporção 1:1. O sódio puro é um metal 
+e o cloro puro é um gás venenoso. Quando combinados qui-
+micamente, no entanto, eles formam um composto comes-
+tível. A água (H2O), outro composto, consiste nos elementos 
+hidrogênio (H) e oxigênio (O) na proporção 2:1. Esses são 
+exemplos simples da matéria organizada com propriedades 
+emergentes: um composto tem características diferentes 
+das características dos seus elementos (Figura 2.2).
+1 Na linguagem informal, há uma tendência em substituir o termo massa 
+por peso, embora os dois não sejam idênticos. Massa é a quantidade de 
+matéria de um objeto, ao passo que o peso de um objeto mede a força pela 
+qual essa massa é atraída pela gravidade. O peso de um astronauta cami-
+nhando na Lua é aproximadamente 1/6 do seu peso na Terra, mas a sua 
+massa é a mesma. Contudo, como estamos ligados ao planeta Terra, o peso 
+de um objeto é a medida da sua massa; por isso, em linguagem informal, 
+tendemos a utilizar os termos de modo intercambiável.
+Os elementos da vida
+Dos 92 elementos naturais, cerca de 20 a 25% são elemen-
+tos essenciais de que os organismos necessitam para ter 
+uma vida saudável e reproduzir. Os elementos essenciais 
+são semelhantes entre os organismos, mas existem algu-
+mas variações – por exemplo, os seres humanos necessi-
+tam de 25 elementos, ao passo que as plantas de apenas 17.
+Não mais que quatro elementos – oxigênio (O), car-
+bono (C), hidrogênio (H) e nitrogênio(N) – constituem 
+96% da matéria viva. Cálcio (Ca), fósforo (P), potássio 
+(K), enxofre (S) e alguns outros elementos são responsá-
+veis pela maior parte dos restantes 4% da massa de um 
+organismo. Os elementos-traço são necessários a um 
+organismo em quantidades apenas diminutas. Alguns 
+elementos-traço, como o ferro (Fe), são necessários para 
+todas as formas de vida; outros são necessários apenas 
+para certas espécies. Por exemplo, em vertebrados (ani-
+mais com coluna vertebral), o elemento iodo (I) é um 
+ingrediente essencial de um hormônio produzido pela 
+glândula tireoide. A ingestão diária de apenas 0,15 mili-
+gramas (mg) de iodo é adequada para a atividade normal 
+da tireoide humana. Uma deficiência de iodo na dieta 
+causa o aumento anormal da glândula tireoide, uma con-
+dição chamada de bócio. Nos lugares onde o iodo está 
+disponível, o consumo de sal iodado reduz a incidên-
+cia de bócio. Todos os elementos necessários ao corpo 
+humano estão listados na Tabela 2.1.
+Alguns elementos de ocorrência natural são tóxicos 
+aos organismos. Nos seres humanos, por exemplo, o ar-
+sênico tem sido associado a inúmeras doenças e pode 
+ser letal. Em algumas áreas do mundo, o arsênico ocor-
+re naturalmente e pode atingir a água subterrânea. Em 
+consequência do uso de água de poços no sul da Ásia, 
+milhões de pessoas têm sido inadvertidamente expostas 
+à água contaminada com arsênico. Esforços para reduzir 
+Sódio
++
+Cloro
+Cloreto de sódio
+ Figura 2.2 As propriedades emergentes de um composto. 
+O metal sódio combina com o gás venenoso cloro, formando o com-
+posto comestível cloreto de sódio, ou sal de cozinha.
+Tabela 2.1 Elementos no corpo humano
+Elemento
+Símbolo
+Porcentagem da massa corporal 
+(incluindo a água)
+Oxigênio
+O
+65,0%
+96,3%
+Carbono
+C
+18,5%
+Hidrogênio
+H
+9,5%
+Nitrogênio
+N
+3,3%
+Cálcio
+Ca
+1,5%
+3,7%
+Fósforo
+P
+1,0%
+Potássio
+K
+0,4%
+Enxofre
+S
+0,3%
+Sódio
+Na
+0,2%
+Cloro
+Cl
+0,2%
+Magnésio
+Mg
+0,1%
+Elementos-traço (menos do que 0,01% da massa): boro (B), cromo (Cr), cobalto 
+(Co), cobre (Cu), flúor (F), iodo (I), ferro (Fe), manganês (Mn), molibdênio (Mo), 
+selênio (Se), silício (Si), estanho (Sn), vanádio (V), zinco (Zn)
+ INTERPRETE OS DADOS  Considerando o que você sabe a res-
+peito do corpo humano, o que seria responsável pela alta porcenta-
+gem de oxigênio (65,0%)?
+os níveis de arsênico no abastecimento de água estão em 
+andamento.
+Estudo de caso: evolução da tolerância a 
+elementos tóxicos
+ EVOLUÇÃO  Algumas espécies se tornam adaptadas a 
+ambientes que contêm elementos geralmente tóxicos; um 
+exemplo é o das comunidades vegetais em solo de serpen-
+tina. Serpentina é um mineral que contém concentrações 
+elevadas de cromo, níquel e cobalto. Embora a maioria das 
+plantas não consiga sobreviver em solo formado a partir 
+de rocha serpentinizada, um número pequeno de espécies 
+vegetais exibe adaptações que permitem o seu crescimen-
+to nesse ambiente (Figura 2.3). Supostamente, variantes 
+ancestrais de espécies de ambientes não serpentinizados 
+puderam sobreviver em solos de serpentina, e a posterior 
+seleção natural resultou no conjunto distinto de espécies 
+que hoje encontramos nessas áreas. Os pesquisadores es-
+tão estudando se as plantas adaptadas aos solos de serpen-
+tina poderiam absorver metais pesados tóxicos em áreas 
+contaminadas, concentrando-os para descarte seguro.
+REVISÃO DO CONCEITO 2.1
+ 1.  FAÇA CONEXÕES  Explique como o sal de cozinha tem 
+propriedades emergentes. (Ver Conceito 1.1.)
+ 2. Um elemento-traço é essencial? Explique.
+ 3.  E SE...?  Nos seres humanos, o ferro é um elemento-traço 
+necessário para o funcionamento correto da hemoglobina, 
+a molécula que transporta oxigênio nas células vermelhas 
+do sangue. Quais poderiam ser os efeitos da deficiência de 
+ferro?
+ 4.  FAÇA CONEXÕES  Explique como a seleção natural pode 
+ter desempenhado um papel na evolução de espécies tole-
+rantes aos solos de serpentina. (Revise o Conceito 1.2.)
+Ver respostas sugeridas no Apêndice A.
+CONCEITO 2.2
+As propriedades de um elemento dependem 
+da estrutura dos seus átomos
+Cada elemento consiste em certo tipo de átomo que é dife-
+rente dos átomos de qualquer outro elemento. Um átomo é 
+a menor unidade da matéria que ainda retém as proprieda-
+des de um elemento. Os átomos são tão pequenos que se-
+riam necessários aproximadamente um milhão deles para 
+cobrir o ponto impresso no final desta frase. Simbolizamos 
+os átomos com a mesma abreviatura para o elemento feito 
+desses átomos. Por exemplo, o símbolo C representa tanto 
+o elemento carbono quanto um único átomo de carbono.
+Partículas subatômicas
+Embora o átomo seja a menor unidade com as proprieda-
+des de um elemento, esses diminutos pedaços de matéria 
+são compostos de partes ainda menores, denominadas 
+partículas subatômicas. Utilizando colisões altamente 
+energéticas, os físicos produziram mais de cem tipos de 
+partículas a partir do átomo, mas apenas três tipos são re-
+levantes aqui: nêutrons, prótons e elétrons. Os prótons 
+e os elétrons são eletricamente carregados. Cada próton 
+tem uma unidade de carga positiva e cada elétron tem uma 
+unidade de carga negativa. Um nêutron, como seu nome 
+sugere, é eletricamente neutro.
+Os prótons e os nêutrons são empacotados firmemen-
+te em um núcleo denso, ou núcleo atômico, localizado no 
+centro de um átomo; os prótons conferem carga positiva 
+ao núcleo. Os elétrons movendo-se rapidamente formam 
+uma “nuvem” de carga negativa ao redor do núcleo, e é essa 
+atração entre cargas opostas que mantém os elétrons nas 
+proximidades do núcleo. A Figura 2.4 mostra dois mo-
+delos da estrutura do átomo de hélio comumente usados 
+como exemplo.
+ Figura 2.3 Comunidade vegetal em solo de serpentina. 
+Essas espécies vegetais estão crescendo em solo de serpentina, 
+que contém elementos que são geralmente tóxicos às plantas. Os 
+destaques chamam a atenção para uma rocha serpentinizada e 
+para uma das plantas, uma espécie da família Liliaceae (Calochor-
+tus tiburonensis).
+(a)
+(b)
+–
+–
+Nuvem de carga
+negativa (2 elétrons)
+Este modelo representa os 
+dois elétrons como uma 
+nuvem de carga negativa.
+Neste modelo mais simplificado, 
+os elétrons são mostrados como 
+duas pequenas esferas amarela 
+em um círculo ao redor 
+do núcleo.
+Núcleo
+Elétrons
++
++
++
++
+ Figura 2.4 Modelos simplificados de um átomo de hélio 
+(He). O núcleo do hélio consiste em 2 nêutrons (marrom) e 2 pró-
+tons (cor-de-rosa). Dois elétrons (amarelo) localizam-se fora do nú-
+cleo. Estes modelos não estão em escala e superestimam o tamanho 
+do núcleo em relação à nuvem de elétrons.
+BIOLOGIA DE CAMPBELL 
+ 31
+O nêutron e o próton são quase idênticos em mas-
+sa, cada qual com cerca de 1,7 3 10
+–24 gramas (g). Gra-
+mas e outras unidades convencionais não são muito úteis 
+para descrever objetos tão minúsculos. Desse modo, para 
+átomos e partículas subatômicas (e para moléculas, igual-
+mente), utilizamos uma unidade de medida denominada 
+dalton, em homenagem a John Dalton, cientista britâni-
+co que ajudou a desenvolver a teoria atômica por volta de 
+1800. (O dalton é o mesmo que unidade de massa atômi-
+ca, ou amu, unidade que talvez você tenha encontrado em 
+outro lugar.) Nêutrons e prótons têm massas próximas a 
+1 dalton. Como a massa de um elétron é apenas aproxi-
+madamente 1/2.000 da massa de um nêutron ou próton, 
+podemos ignorar os elétrons quando computamos a massa 
+total de um átomo.
+Número atômico e massa atômica
+Os átomos dos diversos elementos diferem em seu núme-
+ro de partículas subatômicas. Todos os átomos de um ele-
+mento têm o mesmo número de prótons em seus núcleos. 
+Esse número de prótons, que é exclusivo daquele elemento, 
+é chamado de número atômico e escrito abaixo (subscri-
+to) à esquerda do símbolo do elemento. A abreviação 2He, 
+por exemplo, significa que um átomo do elemento hélio 
+tem 2 prótons em seu núcleo. A não ser quando indica-
+do, um átomo é neutro em carga elétrica, significando que 
+seus prótons devem ser equilibrados por um número igual 
+de elétrons. Portanto, o número atômico indica o número 
+de prótons e também o número de elétrons em um átomo 
+eletricamente neutro.
+Podemos deduzir o número de nêutrons a partir de 
+uma segunda quantidade, o número de massa, que é a 
+soma de prótons e nêutrons no núcleo de um átomo. O nú-
+mero de massa é escrito acima (sobrescrito) à esquerda do 
+símbolo do elemento. Por exemplo, podemos empregar 
+essa abreviatura para escrever um átomo de hélio como 
+2
+4He. Uma vez que o número atômico indica quantos pró-
+tons existem, podemos determinar o número de nêutrons 
+subtraindo o número atômico do número de massa. Assim, 
+o átomo de hélio, 2
+4He, tem 2 nêutrons. Para o sódio (Na):
+Número de massa 5 número de prótons 1nêutrons
+ 
+5 23 para o sódio
+23
+11Na
+ 
+Número de nêutrons 5 número de massa – número atômico
+Número atômico 5 número de prótons
+5 número de elétrons em um
+átomo neutro
+5 11 para o sódio
+5 23 – 11 5 12 para o sódio
+O átomo mais simples é o hidrogênio 1
+1H, que não tem 
+nêutrons; ele consiste em próton único com elétron único.
+Como a contribuição dos elétrons para a massa é des-
+prezível, quase toda a massa de um átomo está concentrada 
+no núcleo. Já que nêutrons e prótons têm massa muito pró-
+xima a 1 dalton, o número de massa é uma aproximação da 
+massa total de um átomo, denominada massa atômica. As-
+sim, podemos dizer que a massa atômica do sódio (11
+23Na) é 23 
+dáltons, embora mais precisamente ela seja 22,9898 dáltons.
+Isótopos
+Todos os átomos de um determinado elemento têm o 
+mesmo número de prótons, mas alguns átomos têm mais 
+nêutrons do que outros átomos do mesmo elemento e, 
+por isso, têm massa maior. Essas formas atômicas dife-
+rentes são chamadas de isótopos do elemento. Na natu-
+reza, um elemento ocorre como uma mistura dos seus 
+isótopos. Por exemplo, consideremos os três isótopos 
+naturais do elemento carbono, cujo número atômico é 6. 
+O isótopo mais comum é o carbono –12, 
+12
+6C, que cor-
+responde a aproximadamente 99% do carbono na natu-
+reza. O isótopo 
+12
+6C tem 6 nêutrons. A maior parte do 1% 
+de carbono restante consiste em átomos do isótopo 
+13
+6C, 
+com 7 nêutrons. Um terceiro isótopo, ainda mais raro, 
+14
+6C, tem 8 nêutrons. Observe que todos os três isótopos 
+de carbono têm 6 prótons; do contrário, eles não seriam 
+carbono. Embora os isótopos de um elemento tenham 
+massas levemente diferentes, eles se comportam de modo 
+idêntico em reações químicas. (O número geralmente 
+dado como a massa atômica de um elemento, como 12,01 
+dáltons para o carbono, é na verdade a média das massas 
+atômicas de todos os isótopos naturais do elemento, pon-
+derada de acordo com a abundância de cada um.)
+Tanto 
+12C quanto 
+13C são isótopos estáveis, significan-
+do que seus núcleos não têm tendência a perder partículas 
+subatômicas, processo denominado decaimento. O isótopo 
+14C, no entanto, é instável ou radioativo. Um isótopo ra-
+dioativo é aquele em que o núcleo decai espontaneamente, 
+emitindo partículas e energia. Quando o decaimento ra-
+dioativo leva a uma mudança no número de prótons, ele 
+transforma o átomo em um átomo de um elemento diferen-
+te. Por exemplo, quando um átomo de carbono –14 (
+14C) 
+decai, ele se torna um átomo de nitrogênio (
+14N). Os isó-
+topos radioativos têm muitas aplicações úteis na biologia.
+Marcadores radioativos
+Os isótopos radioativos são muitas vezes empregados 
+como ferramentas de diagnóstico na medicina. As células 
+podem usar átomos radioativos como usariam isótopos 
+não radioativos do mesmo elemento. Os isótopos radioa-
+tivos são incorporados às moléculas biologicamente ativas, 
+que são então utilizadas como marcadores para monitorar 
+átomos durante o metabolismo – processos químicos de 
+um organismo. Por exemplo, certos distúrbios renais são 
+diagnosticados pela injeção de pequenas doses de substân-
+cias radioativamente marcadas no sangue e, após, é feita 
+a análise das moléculas do marcador excretadas na urina. 
+Os marcadores radioativos também são empregados em 
+combinação com sofisticados instrumentos de imagem, 
+como o PET scanner capaz de monitorar o crescimento e o 
+metabolismo de cânceres no corpo (Figura 2.5).
+Embora os isótopos radioativos sejam muitos úteis 
+na pesquisa biológica e na medicina, a radiação oriunda 
+do decaimento de isótopos também constitui um perigo 
+32 
+ 
+REECE, URRY, CAIN, WASSERMAN, MINORSKY & JACKSON
+à vida, pois danifica as moléculas celulares. A gravidade 
+desse dano depende do tipo e da quantidade de radiação 
+que um organismo absorve. Uma das mais sérias ameaças 
+ambientais é a chuva radioativa de acidentes nucleares. No 
+entanto, as doses da maioria dos isótopos empregados no 
+diagnóstico médico são relativamente seguras.
+Datação radiométrica
+ EVOLUÇÃO  Os cientistas medem o decaimento radioa-
+tivo em fósseis para datar esses relictos da vida passada. 
+Os fósseis proporcionam um amplo conjunto de evidências 
+da evolução, documentando diferenças entre organismos 
+do passado e os que vivem no presente e ensejam noções 
+sobre espécies que desapareceram ao longo do tempo. Em-
+bora a estratificação de sítios paleontológicos estabeleça 
+que os fósseis mais profundos são mais antigos do que os 
+mais superficiais, a idade real (em anos) dos fósseis em cada 
+camada não pode ser determinada só pela posição. É nessa 
+situação que há necessidade de usar isótopos radioativos.
+O decaimento do isótopo “mãe” resulta no seu isótopo 
+“filha” em uma taxa fixa, expressa como a meia-vida do 
+isótopo – o tempo decorrido para 50% do isótopo-mãe de-
+cair. Cada isótopo radioativo tem meia-vida característica 
+que não é afetada pela temperatura, pressão ou qualquer 
+outra variável ambiental. Usando um processo denomina-
+do datação radiométrica, os cientistas medem a propor-
+ção de diferentes isótopos e calculam quantas meias-vidas 
+(em anos) se passaram desde a fossilização de um organis-
+mo ou a formação de uma rocha. Os valores de meia-vida 
+variam de muito baixos para alguns isótopos, medidos em 
+segundos ou dias, até extremamente altos – o urânio-238 
+tem meia-vida de 4,5 bilhões de anos! Cada isótopo pode 
+“medir” uma faixa particular de anos: o urânio 238 foi utili-
+zado para determinar que as rochas lunares têm aproxima-
+damente 4,5 bilhões de anos, semelhante à idade estimada 
+da Terra. No Exercício de Habilidades Científicas, você
+pode trabalhar com dados de um experimento que em-
+pregou carbono-14 para determinar a idade de um fóssil 
+importante. (No Capítulo 25, você aprenderá mais sobre a 
+datação radiométrica de fósseis.)
+Os níveis de energia dos elétrons
+Os modelos simplificados do átomo na Figura 2.4 exage-
+ram muito o tamanho do núcleo em relação ao do átomo 
+inteiro. Se um átomo de hélio fosse do tamanho oficial de 
+um estádio de futebol, o núcleo teria o tamanho 
+de uma borracha de lápis no centro do campo. 
+Além disso, os elétrons seriam como dois mos-
+quitos minúsculos zunindo em volta do estádio. 
+Quando dois átomos se aproximam durante uma 
+reação química, seus núcleos não se aproximam o 
+suficiente para interagir. Das três partículas suba-
+tômicas que discutimos, apenas os elétrons estão 
+diretamente envolvidos em reações químicas.
+Os elétrons de um átomo variam na quanti-
+dade de energia que possuem. Energia é defini-
+da como a capacidade de causar mudança – por 
+exemplo, pela realização de trabalho. A energia 
+potencial é a energia que a matéria tem devido à sua lo-
+calização ou estrutura. Por exemplo, a água de um reser-
+vatório natural em um morro tem energia potencial por 
+causa da sua altitude. Quando as comportas da barragem 
+são abertas e a água corre encosta abaixo, a energia pode 
+ser utilizada para realizar trabalho como o movimento das 
+lâminas de turbinas para gerar eletricidade. Uma vez que a 
+energia foi consumida, a água tem menos energia no sopé 
+do morro do que tinha no reservatório. A matéria tem uma 
+tendência natural de se mover em direção ao estado mais 
+baixo possível de energia potencial; no nosso exemplo, a 
+água corre encosta abaixo. Para restabelecer a energia 
+potencial de um reservatório, deve ser realizado trabalho 
+para elevar a água contra a gravidade.
+Os elétrons de um átomo têm energia potencial devido 
+à sua distância em relação ao núcleo (Figura 2.6). Os elé-
+trons carregados negativamente são atraídos para o núcleo 
+carregado positivamente. É preciso trabalho para mover 
+um determinado elétron para longe do núcleo. Assim, 
+quanto mais distante um elétron estiver do núcleo, maior 
+Núcleo 
+atômico
+Terceira camada (nível mais 
+alto de energia)
+Segunda camada (nível 
+intermediário de energia)
+Primeira camada (nível 
+mais baixo de energia)
+Absorção 
+de energia
+Perda de 
+energia
+(a) Uma bola rolando em um lance 
+de escada fornece uma analogia 
+com os níveis de energia dos 
+elétrons, porque a bola pode 
+parar apenas no próximo degrau,
+não entre os degraus.
+(b) Um elétron pode mover-se de uma camada para outra apenas se a 
+energia que ele ganha ou perde for exatamente igual à diferença 
+de energia entre os níveis de energia de duas camadas. As setas 
+indicam algumas possíveis mudanças gradativas na energia potencial.
+ Figura 2.6 Níveis de energia dos elétrons de um átomo. 
+Os elétrons existem apenas em níveis fixos de energia potencial cha-
+mados de camadas eletrônicas.
+ Figura 2.5 Um PET scanner, 
+um emprego médico de isóto-
+pos radioativos. PET, um acrô-
+nimo para tomografia de emissão 
+de pósitrons (positron-emission 
+tomography), detecta locais de in-
+tensa atividade química no corpo. 
+A mancha amarela brilhante iden-
+tifica uma área com nível elevado 
+de glicose radioativamente mar-
+cada, que, por sua vez, indica alta 
+atividade metabólica, sinalizando a 
+ocorrência de tecido canceroso.
+Tecido 
+canceroso 
+na garganta
+sua energia potencial. Diferentemente do fluxo contínuo 
+da água encosta abaixo, mudanças na energia potencial dos 
+elétrons podem ocorrer apenas em etapas com quantida-
+des fixas. Um elétron com certa quantidade de energia é 
+como uma bola em uma escadaria (Figura 2.6a). A bola 
+pode ter quantidades diferentes de energia potencial, de-
+pendendo do degrau em que está, mas não pode gastar 
+muito tempo entre os degraus. Do mesmo modo, a energia 
+potencial do elétron é determinada pelo seu nível de ener-
+gia. Um elétron pode existir somente em certos níveis de 
+energia, não entre eles.
+O nível de energia de um elétron está correlacionado 
+com sua distância média em relação ao núcleo. Os elétrons 
+são encontrados em diferentes camadas eletrônicas, cada 
+qual com distância média e nível de energia característicos. 
+Em diagramas, as camadas podem ser representadas por 
+círculos concêntricos (Figura 2.6b). A primeira camada é
+a mais próxima ao núcleo. Os elétrons nesta camada têm a 
+EXERCÍCIO DE HABILIDADES CIENTÍFICAS
+Calibrando uma curva de decaimento do isótopo 
+radioativo padrão e interpretando dados
+Quando os homens de Neandertal se tornaram extintos? 
+Os homens de Neandertal (Homo neanderthalensis) viveram na 
+Europa aproximadamente há 350.000 anos, talvez coexistindo com 
+o começo do Homo sapiens em partes da Eurásia por centenas ou 
+milhares de anos. Pesquisadores procuraram determinar com mais 
+exatidão a extensão da sua sobreposição identificando quando os 
+homens de Neandertal foram extintos. Eles usaram a datação com 
+carbono-14 para determinar a idade de um fóssil do homem de 
+Neandertal da camada arqueológica mais recente (mais alta) conten-
+do ossos do homem de Neandertal. Neste exercício, você calibrará 
+uma curva de decaimento do carbono-14 padrão e a usará para 
+determinar a idade desse fóssil do homem de Neandertal. A idade 
+lhe ajudará a aproximar o último período em que as duas espécies 
+podem ter coexistido no local onde o fóssil foi coletado.
+Como o experimento foi realizado O carbono-14 (
+14C) é 
+um isótopo radioativo do carbono que decai para 
+14N em uma 
+taxa constante. 
+14C está presente na atmosfera em quantidades 
+pequenas em uma razão constante com 
+13C e 
+12C, dois outros isó-
+topos do carbono. Quando o carbono é captado da atmosfera por 
+uma planta durante a fotossíntese, os isótopos 
+12C, 
+13C e 
+14C são 
+incorporados a esse organismo fotossintetizante nas mesmas pro-
+porções em que estavam presentes na atmosfera. Essas proporções 
+permanecem as mesmas nos tecidos de um animal que consome a 
+planta. Durante a vida de um organismo, o 
+14C no seu corpo decai 
+constantemente para 
+14N, mas é constantemente reposto por novo 
+carbono do ambiente. Uma vez morto o organismo, não há mais 
+captação de novo 
+14C, mas o 
+14C presente nos tecidos continua a 
+decair. Por outro lado, o 
+12C nos tecidos permanece o mesmo, pois 
+ele não é radioativo e não decai. Assim, medindo a razão de 
+14C 
+para
+12C e comparando-a com a razão de 
+14C para 
+12C presente ori-
+ginalmente na atmosfera, os cientistas conseguem calcular o tempo 
+de decaimento do contingente (pool) de 
+14C original em um fóssil. 
+A fração de 
+14C em um fóssil comparada com a fração original de 
+14C pode ser convertida em anos, pois sabemos que a meia-vida do 
+14C é de 5.730 anos – em outras palavras, a metade do 
+14C em um 
+fóssil decai a cada 5.730 anos.
+Dados do experimento Os pesquisadores constataram que 
+o fóssil do homem de Neandertal tinha aproximadamente 0,0078 
+(ou, em notação científica, 7,8 3 10
+–3) mais 
+14C do que a atmosfera. 
+As perguntas orientarão você durante a transformação dessa fração 
+em idade do fóssil.
+Interprete os dados
+ 1. Um gráfico padrão de decaimento de isótopo radioativo na 
+parte superior da coluna à direita. A linha do gráfico mostra 
+a fração do isótopo radioativo ao longo do tempo (antes do 
+presente) em unidades de meias-vidas. Lembre-se de que a 
+meia-vida é o tempo que leva para o decaimento da metade 
+do isótopo radioativo. A identificação de cada ponto de dados 
+com as frações correspondentes ajudará a orientar você nesse 
+gráfico. Indique com uma seta o ponto de dados para meia-
+-vida 5 1 e escreva a fração de 
+14C que permanecerá após 
+a meia-vida. Calcule a fração de 
+14C remanescente a cada 
+meia-vida e escreva as frações no gráfico perto das setas vol-
+tadas para os pontos de dados. Converta cada fração em um 
+número decimal e arredonde para um máximo de três dígitos 
+significativos (zeros no começo do número não contam como 
+dígitos significativos). Escreva também cada número decimal 
+em notação científica.
+ 2. Lembre-se de que o 
+14C tem meia-vida de 5.730 anos. Para 
+calibrar o eixo x de decaimento do 
+14C, escreva o tempo antes 
+do presente em anos abaixo de cada meia-vida.
+ 3. Os pesquisadores constataram que o fóssil do homem de 
+Neandertal tinha 0,0078 mais 
+14C do que o encontrado origi-
+nalmente na atmosfera. (a) Usando os números no seu gráfico, 
+determine quantas meias-vidas se passaram desde a morte do 
+homem de Neandertal. (b) Usando sua calibração do 
+14C no 
+eixo x, qual é a idade aproximada do fóssil dos neandertais em 
+anos (arredonde a aproximação até o milhar)? (c) Aproximada-
+mente, quando o neandertal foi extinto, de acordo com esse 
+estudo? (d) Os pesquisadores citam evidências que os seres 
+humanos modernos (H. sapiens) estabeleceram-se na mesma 
+região dos últimos homens de Neandertal, há aproximada-
+mente 39.000 a 42.000 anos. O que isso sugere a respeito da 
+sobreposição dos neandertais e seres humanos modernos?
+ 4. A datação com carbono-14 se presta para fósseis de até 
+aproximadamente 75.000 anos de idade; fósseis mais antigos 
+do que esses contêm muito pouco 
+14C para ser detectado. 
+A maioria dos dinossauros foi extinta há 65,5 milhões de anos. 
+(a) O 
+14C pode ser usado para datar ossos de dinossauros? 
+Explique. (b) O urânio-235 radioativo tem meia-vida de 704 
+milhões de anos. Se fosse incorporado aos ossos de dinos-
+sauros, ele poderia ser empregado para datar fósseis desses 
+animais? Explique.
+Dados de R. Pinhasi et al., Revised age of late Neanderthal occupation 
+and the end of the Middle Paleolithic in the northern Caucasus, Procee-
+dings of the National Academy of Sciences USA 147:8611-8616 (2011). 
+doi 10.1073/pnas. 1018938108
+1,0
+0,7
+0,8
+0,9
+0,4
+0,5
+0,6
+0,1
+0,2
+0,3
+0
+0
+2
+1
+3
+5
+7
+9
+4
+6
+8
+10
+Tempo antes do presente (meias-vidas)
+Fração de isótopo remanescente no fóssil
+c Fóssil do 
+homem de 
+Neandertal
+34 
+ 
+REECE, URRY, CAIN, WASSERMAN, MINORSKY & JACKSON
+energia potencial mais baixa. Os elétrons na segunda ca-
+mada têm mais energia, e os elétrons na terceira camada 
+têm ainda mais energia. Um elétron pode mover-se de uma 
+camada para outra, mas somente pela absorção ou perda 
+de uma quantidade de energia igual à diferença em energia
+potencial entre suas posições na camada antiga e na nova. 
+Quando um elétron absorve energia, ele se move para uma 
+camada mais externa do núcleo. Por exemplo, a energia da 
+luz pode excitar um elétron para um nível energético mais 
+alto. (Na verdade, esse é o primeiro passo dado pelas plan-
+tas ao aproveitarem a energia da luz solar na fotossíntese, o 
+processo que produz alimento a partir do dióxido de carbo-
+no e da água. No Capítulo 10, você aprenderá mais a respei-
+to da fotossíntese.) Quando um elétron perde energia, ele 
+“recua” a uma camada mais próxima ao núcleo. A energia 
+perdida é geralmente liberada para o ambiente como calor. 
+Por exemplo, a luz solar excita os elétrons na superfície de 
+um carro para níveis de energia mais altos. Quando os elé-
+trons recuam a seus níveis originais, a superfície do carro 
+esquenta. Essa energia térmica pode ser transferida para o 
+ar ou para sua mão se você tocar no carro.
+Distribuição eletrônica e propriedades químicas
+O comportamento químico de um átomo é determinado 
+pela distribuição dos elétrons nas suas camadas eletrôni-
+cas. Começando com o hidrogênio, o átomo mais simples, 
+podemos imaginar a construção de átomos dos outros ele-
+mentos pela adição de 1 próton e 1 elétron por vez (junto 
+com o número apropriado de nêutrons). A Figura 2.7, 
+uma versão abreviada da chamada tabela periódica dos 
+elementos, mostra essa distribuição eletrônica para os pri-
+meiros 18 elementos, do hidrogênio (1H) ao argônio (18Ar). 
+Os elementos são dispostos em três fileiras, ou períodos, 
+correspondendo ao número de camadas eletrônicas nos 
+átomos. A sequência de elementos da esquerda para a 
+direita em cada fileira corresponde à adição sequencial 
+de elétrons e prótons. (Ver tabela periódica completa no 
+Apêndice B.)
+O único elétron do hidrogênio e os 2 elétrons do hélio 
+estão localizados na primeira camada. Os elétrons, como 
+toda a matéria, tendem a existir no mais baixo estado dis-
+ponível de energia potencial. No átomo, isso acontece na 
+primeira camada. Entretanto, a primeira camada não com-
+porta mais que 2 elétrons; desse modo, o hidrogênio e o 
+hélio são os únicos elementos na primeira fileira da tabela. 
+Em um átomo com mais de 2 elétrons, os elétrons adicio-
+nais devem ocupar camadas mais altas porque a primeira 
+camada está completa. O próximo elemento, o lítio, tem 3 
+elétrons. Dois desses elétrons preenchem a primeira cama-
+da, enquanto o terceiro elétron ocupa a segunda camada. 
+A segunda camada contém no máximo 8 elétrons. O neô-
+Hidrogênio
+1H
+Hélio
+2He
+Número atômico
+Neônio
+10Ne
+Flúor
+9F
+Oxigênio
+8O
+Nitrogênio
+7N
+Carbono
+6C
+Boro
+5B
+Berílio
+4Be
+Lítio
+3Li
+Argônio
+18Ar
+Cloro
+17Cl
+Enxofre
+16S
+Fósforo
+15P
+Silício
+14Si
+Alumínio
+13Al
+Magnésio
+12Mg
+Sódio
+11Na
+Primeira
+camada
+Segunda
+camada
+Terceira
+camada
+He
+2
+4,003
+Símbolo
+do elemento
+Massa atômica
+Diagrama 
+de distribuição 
+eletrônica
+ Figura 2.7 Diagramas de distribuição eletrônica para os 
+primeiros 18 elementos da tabela periódica. Na tabela periódica 
+padrão (ver Apêndice B), as informações para cada elemento são apre-
+sentadas como no hélio em destaque. Nos diagramas desta tabela, 
+os elétrons estão representados como pontos amarelos e as camadas 
+eletrônicas como círculos concêntricos. Estes diagramas são recursos 
+convenientes de retratar a distribuição dos elétrons entre as cama-
+das eletrônicas, mas estes modelos simplificados não representam 
+com exatidão a forma do átomo ou a localização dos seus elétrons. 
+Os elementos estão dispostos em fileiras, cada um representando a 
+composição de uma camada eletrônica. À medida que os elétrons são 
+adicionados, eles ocupam a camada mais baixa disponível.
+ ?  Qual é o número atômico do magnésio? Quantos prótons e 
+elétrons ele tem? Quantas camadas eletrônicas? Quantos elétrons 
+de valências?
+BIOLOGIA DE CAMPBELL 
+ 35
+nio, no final da segunda fileira, tem 8 elétrons na segunda 
+camada, possuindo um total de 10 elétrons.
+O comportamento químico de um átomo depende 
+principalmente do número de elétrons na sua camada mais 
+externa. Nós chamamos esses elétrons externos de elétrons 
+de valência, e a camada eletrônica mais externa de camada 
+de valência. No caso do lítio, há somente 1 elétron de va-
+lência, e a segunda camada é a camada de valência. Os áto-
+mos como o mesmo número de elétrons nas camadas de 
+valência exibem comportamento químico semelhante. Por 
+exemplo, tanto o flúor (F) quanto o cloro (Cl) têm 7 elétrons 
+de valência, e ambos formam compostos quando combina-
+dos com o elemento sódio (Na). O fluoreto de sódio (NaF) 
+é comumente adicionado ao creme dental para prevenir a 
+queda dos dentes, e, como descrito anteriormente, NaCl é 
+o sal de cozinha (ver Figura 2.2). Um átomo com camada 
+de valência completa não é reativo, ou seja, não interage 
+prontamente com outros átomos. Bem à direita da tabela 
+periódica estão o hélio, o neônio e o argônio, os três únicos 
+elementos mostrados na Figura 2.7 com camadas de valên-
+cia completas. Esses elementos são considerados inertes, 
+significando ausência de reatividade química. Todos os ou-
+tros átomos da Figura 2.7 são quimicamente reativos por-
+que têm camadas de valência incompletas.
+Orbitais eletrônicos
+No começo do século XX, as camadas eletrônicas de um 
+átomo foram visualizadas como trajetórias concêntricas 
+de elétrons na órbita do núcleo, algo como planeta na ór-
+bita do sol. Ainda é conveniente utilizar os diagramas de 
+círculos concêntricos bidimensionais, como na Figura 2.7, 
+para simbolizar as camadas eletrônicas tridimensionais. 
+Entretanto, é preciso lembrar que cada círculo concên-
+trico representa apenas a distância média entre o elétron 
+naquela camada e o núcleo. Por conseguinte, os diagramas 
+de círculo concêntrico não dão uma imagem real de um 
+átomo. Na realidade, nunca podemos saber a localização 
+exata de um elétron. O que podemos fazer, em vez disso, é 
+descrever o espaço em que o elétron está na maior parte do 
+tempo. O espaço tridimensional onde o elétron é encontra-
+do 90% do tempo é chamado de orbital.
+Cada camada eletrônica contém elétrons em um de-
+terminado nível de energia, distribuídos entre um número 
+específico de orbitais com orientações e formatos caracte-
+rísticos. A Figura 2.8 mostra os orbitais do neônio como 
+exemplo, com seu diagrama da distribuição eletrônica por 
+referência. Pode-se imaginar o orbital como um compo-
+nente da camada eletrônica. A primeira camada tem ape-
+nas um orbital s esférico (chamado 1s), mas a segunda 
+camada tem quatro orbitais: um grande orbital s esférico 
+(chamado 2s) e três orbitais p em forma de haltere (cha-
+mados orbitais 2p). (A terceira camada e as outras cama-
+das eletrônicas mais altas também têm orbitais s e p, bem 
+como orbitais de formas mais complexas.)
+Não mais que 2 elétrons podem ocupar um único orbi-
+tal. A primeira camada eletrônica pode, portanto, acomo-
+dar 2 elétrons no seu orbital s. O elétron solitário do átomo 
+de hidrogênio ocupa o orbital 1s, assim como os 2 elétrons 
+do átomo de hélio. Os quatro orbitais da segunda camada 
+eletrônica podem conter até 8 elétrons, 2 em cada orbital. 
+Os elétrons em cada um dos quatro orbitais têm aproxima-
+damente a mesma energia, mas se movem em diferentes 
+volumes de espaço.
+A reatividade de um átomo resulta da presença de elé-
+trons não pareados em um ou mais orbitais da sua camada 
+de valência. Como veremos na próxima seção, os átomos 
+interagem de forma a completarem suas camadas de va-
+lência. Ao fazerem isso, estão envolvidos os elétrons não 
+pareados.
+Orbital 1s
+Primeira
+camada
+Segunda camada
+Orbital 2s
+Orbitais1s, 
+2s e 2p
+Três orbitais 2p
+Neônio, com duas
+camadas completas 
+(10 elétrons)
+Primeira camada
+Segunda camada
+x
+y
+z
+(a) Diagrama de distribuição eletrônica. É mostrado o diagrama 
+de distribuição eletrônica do átomo de neônio, com um total de 
+10 elétrons. Cada círculo concêntrico representa uma camada 
+eletrônica, que pode ser subdividida em orbitais eletrônicos.
+(b) Orbitais eletrônicos separados. Os formatos tridimensionais 
+representam orbitais eletrônicos – volumes de espaço onde é 
+mais provável encontrar os elétrons de um átomo. Cada orbital 
+suporta um máximo de 2 elétrons. A primeira camada 
+eletrônica, à esquerda, tem um orbital (s) esférico, designado 
+1s. A segunda camada, à direita, tem um grande orbital s 
+(designado 2s para a segunda camada) mais três orbitais em 
+forma de haltere chamados orbitais p (2p para a segunda 
+camada). Os três orbitais 2p estão dispostos em ângulos retos 
+uns com os outros, ao longo dos eixos imaginários x, y e z do 
+átomo. Cada orbital 2p é mostrado aqui em uma cor diferente.
+(c) Orbitais eletrônicos sobrepostos. Para ilustração completa 
+dos orbitais eletrônicos do neônio, fizemos a sobreposição do 
+orbital 1s da primeira camada e do orbital 2s e três orbitais 2p 
+da segunda camada.
+ Figura 2.8 Orbitais eletrônicos.
+36 
+ 
+REECE, URRY, CAIN, WASSERMAN, MINORSKY & JACKSON
+REVISÃO DO CONCEITO 2.2
+ 1. Um átomo de lítio tem 3 prótons e 4 nêutrons. Qual é seu 
+número de massa?
+ 2. Um átomo de nitrogênio tem 7 prótons e o isótopo mais co-
+mum do nitrogênio tem 7 nêutrons. Um isótopo radioativo 
+do nitrogênio tem 8 nêutrons. Escreva o número atômico 
+e o número de massa desse nitrogênio radioativo em um 
+símbolo químico com subscrito e sobrescrito.
+ 3. O flúor tem quantos elétrons? Quantas camadas eletrônicas? 
+Denomine os orbitais que estão ocupados. Quantos elétrons 
+são necessários para completar a camada de valência?
+ 4.  E SE...?  Na Figura 2.7, se dois ou mais elementos estives-
+sem na mesma fileira, o que teriam em comum? Se dois ou 
+mais elementos estivessem na mesma coluna, o que teriam 
+em comum?
+Ver respostas sugeridas no Apêndice A.
+CONCEITO 2.3
+A formação e a função das moléculas 
+dependem das ligações químicas 
+entre os átomos
+Agora que observamos a estrutura dos átomos, podemos 
+seguir adiante na hierarquia da organização e ver como 
+eles se combinam para formar as moléculas e os compostos 
+iônicos. Os átomos com camadas de valência incompletas 
+podem interagir com outros átomos, de tal modo que cada 
+parceiro completa sua camada de valência: os átomos ou 
+compartilham ou transferem elétrons de valência. Essas in-
+terações geralmente resultam em átomos que permanecem 
+muito próximos, mantidos por atrações chamadas de liga-
+ções químicas. Os tipos mais fortes de ligações químicas 
+são as ligações covalentes e as ligações iônicas (quando em 
+compostos iônicos secos).
+Ligações covalentes
+Uma ligação covalente é o compartilhamento, por dois áto-
+mos, de um par de elétrons de valência. Por exemplo, consi-
+deremos o que acontece quando dois átomos de hidrogênio se 
+aproximam um do outro. Lembre-se de que o hidrogênio tem 
+1 elétron de valência na primeira camada, mas a capacidade 
+da camada é de 2 elétrons. Quando dois átomos de hidrogê-
+nio se aproximam o suficiente para seus orbitais 1s se sobre-
+porem, eles podem compartilhar seus elétrons (Figura 2.9). 
+Cada átomo de hidrogênio está agora associado a 2 elétrons, 
+para completar uma camada de valência. Dois ou mais áto-
+mos mantidos por ligações covalentes constituem uma molé-
+cula, que neste caso é uma molécula de hidrogênio.
+A Figura 2.10a mostra várias maneiras de representar 
+uma molécula de hidrogênio. Sua fórmula molecular, H2, 
+indica simplesmente que a molécula consiste em dois áto-
+mos de hidrogênio. O compartilhamento de elétrons pode 
+ser representado por um diagrama de distribuição eletrô-
+nica ou por uma estrutura de Lewis, na qual os símbolos 
+dos elementos são rodeados por pontos que representam 
+os elétrons de valência (H:H). Também podemos usar a 
+fórmula estrutural, H—H, em que a linha representa uma 
+ligação simples, um par de elétrons compartilhados. Esse 
+modelo de preenchimento espacial é o que mais se aproxi-
+ma da representação da forma real da molécula. Você pode 
+também estar familiarizado com os modelos de bola e bas-
+tão, mostrados na Figura 2.15.
+O oxigênio tem 6 elétrons na segunda camada eletrô-
+nica e, portanto, precisa de mais 2 elétrons para completar 
+a camada de valência. Dois átomos de oxigênio formam 
+uma molécula pelo compartilhamento de dois pares de 
+elétrons de valência (Figura 2.10b). Assim, os átomos são 
+unidos pelo que chamamos de ligação covalente dupla ou 
+ligação dupla (O“O).
+Cada átomo que pode compartilhar os elétrons de va-
+lência tem capacidade de ligação correspondente ao núme-
+ro de ligações covalentes que pode formar. Quando as liga-
+ções se formam, elas dão ao átomo a totalidade de elétrons 
+na camada de valência. A capacidade de ligação do oxigê-
+nio, por exemplo, é 2. Essa capacidade de ligação é chamada 
+de valência do átomo; em geral, ela é igual ao número de 
+elétrons não pareados necessários para completar a cama-
+da mais externa (valência) do átomo. Veja se você consegue 
+determinar as valências do hidrogênio, do oxigênio, do ni-
+trogênio e do carbono estudando os diagramas de distribui-
+ção eletrônica na Figura 2.7. Você pode ver que a valência 
+do hidrogênio é 1; do oxigênio, 2; do nitrogênio, 3; e do car-
+bono, 4. No entanto, a situação é mais complicada para os 
+elementos da terceira fileira da tabela periódica. O fósforo, 
+por exemplo, pode ter valência 3, como seria previsível pela 
+presença de 3 elétrons não pareados na camada de valência. 
+Em algumas moléculas biologicamente importantes, contu-
+do, o fósforo pode formar três ligações simples e uma liga-
+ção dupla. Portanto, ele pode também ter valência 5.
++
++
++
++
++
++
+Em cada átomo de 
+hidrogênio, o único 
+elétron é mantido no 
+orbital por sua atração 
+ao próton no núcleo.
+Molécula de
+hidrogênio (H2)
+Átomos de hidrogênio (2 H)
+1
+Quando dois átomos 
+de hidrogênio se 
+aproximam um do 
+outro, o elétron de 
+cada átomo é atraído 
+também ao próton 
+no outro núcleo.
+2
+Os dois elétrons
+tornam-se 
+compartilhados 
+em uma ligação 
+covalente, formando 
+uma molécula H2.
+3
+ Figura 2.9 Formação de uma ligação covalente.
+BIOLOGIA DE CAMPBELL 
+ 37
+As moléculas de H2 e O2 são elementos simples, em 
+vez de compostos, pois um composto é a combinação de 
+dois ou mais elementos diferentes. A água, com fórmula 
+molecular H2O, é um composto. Dois átomos de hidrogê-
+nio são necessários para satisfazer a valência de um átomo 
+de oxigênio. A Figura 2.10c mostra a estrutura de uma 
+molécula de água. (A água é tão importante à vida que o 
+Capítulo 3 é dedicado inteiramente à sua estrutura e com-
+portamento.)
+O metano, principal componente do gás natural, é 
+um composto com a fórmula molecular CH4. Ele tem qua-
+tro átomos de hidrogênio, cada um com valência 1, para 
+complementar um átomo de carbono, com valência  4 
+(Figura 2.10d). (No Capítulo 4, veremos muitos outros 
+compostos de carbono.)
+Os átomos de uma molécula atraem elétrons de uma 
+ligação compartilhada em graus variáveis, dependendo do 
+elemento. A atração de um determinado átomo pelos elé-
+trons de uma ligação covalente é chamada de eletronega-
+tividade. Quanto mais eletronegativo for um átomo, mais 
+fortemente ele atrai para si elétrons compartilhados. Em 
+uma ligação covalente entre dois átomos do mesmo ele-
+mento, os elétrons são compartilhados igualmente, pois 
+os átomos têm a mesma eletronegatividade – o resultado 
+do “cabo de guerra” está em equilíbrio. Uma ligação desse 
+tipo, é denominada ligação covalente apolar. Por exem-
+plo, a ligação simples de H2 é apolar, assim como a liga-
+ção dupla de O2. Entretanto, em outros compostos onde 
+o átomo é ligado a outro mais eletronegativo, os elétrons 
+da ligação não são compartilhados igualmente. Esse tipo 
+de ligação é chamado de ligação covalente polar. Essas 
+ligações variam em polaridade, dependendo da eletronega-
+tividade relativa dos dois átomos. Por exemplo, as ligações 
+entre os átomos de oxigênio e de hidrogênio de uma molé-
+cula de água são totalmente polares (Figura 2.11).
+O oxigênio é um dos elementos mais eletronegativos, 
+atraindo os elétrons compartilhados muito mais fortemen-
+te do que o hidrogênio. Em ligação covalente entre o oxigê-
+nio e o hidrogênio, os elétrons ficam mais tempo perto do 
+núcleo do oxigênio do que do núcleo do hidrogênio. Como 
+os elétrons têm carga negativa e são atraídos pelo oxigênio 
+na molécula de água, o átomo de oxigênio fica com uma 
+carga parcial negativa (indicada pela letra grega d com si-
+nal de menos, d–, ou “delta menos”) e cada átomo de hi-
+drogênio fica com uma carga parcial positiva (d1, ou “delta 
+mais”). Por outro lado, as ligações individuais do metano 
+(CH4) são muito menos polares, pois as eletronegativida-
+des do carbono e do hidrogênio são semelhantes.
+Ligações iônicas
+Em alguns casos, dois átomos são tão desiguais em sua 
+atração por elétrons de valência que o átomo mais ele-
+tronegativo retira completamente o elétron do seu par. 
+Os dois átomos com cargas opostas resultantes (ou molé-
+culas) são chamados de íons. Um íon carregado positiva-
+mente é chamado de cátion, ao passo que um íon carre-
+gado negativamente é chamado de ânion. Devido às suas 
+cargas opostas, cátions e ânions se atraem; essa atração é 
+chamada de ligação iônica. Observe que a transferência de 
+um elétron não é, por si só, a formação de uma ligação; 
+em vez disso, ela permite que a ligação se forme, pois ela 
+resulta em dois íons de cargas opostas. Qualquer dos dois 
+íons de cargas opostas pode formar uma ligação iônica. 
+Os íons não necessitam ter adquirido suas cargas por uma 
+transferência de elétrons entre si.
+Isso resulta 
+em uma carga 
+parcial negativa 
+no oxigênio e 
+em uma carga 
+parcial positiva 
+no hidrogênio.
+Como o oxigênio (O) é mais eletronegativo do que o hidrogênio 
+(H), os elétrons compartilhados são atraídos mais para o oxigênio.
+O
+d–
+d+
+d+
+H2O
+H
+H
+ Figura 2.11 Ligações covalentes polares em uma molé-
+cula de água.
+(b) Oxigênio (O2).   
+Dois átomos de 
+oxigênio 
+compartilham dois 
+pares de elétrons, 
+formando uma 
+ligação dupla.
+H
+Diagrama de 
+distribuição 
+eletrônica
+Nome e 
+fórmula 
+molecular
+Estrutura 
+de Lewis 
+e fórmula 
+estrutural
+Modelo de 
+preenchi-
+mento 
+espacial
+H
+O
+H
+H
+C
+H
+H
+H
+H
+O
+O
+(a) Hidrogênio (H2). 
+Dois átomos de 
+hidrogênio 
+compartilham um par 
+de elétrons, 
+formando uma 
+ligação simples.
+(c) Água (H2O).   
+Dois átomos de 
+hidrogênio e um 
+átomo de oxigênio
+unem-se por 
+ligações simples, 
+formando uma 
+molécula de água.
+(d) Metano (CH4).   
+Quatro átomos de 
+hidrogênio podem 
+satisfazer a valência 
+de um átomo de 
+carbono, formando 
+o metano.
+H H
+•
+•
+O
+H
+H
+•
+•
+•
+•
+•
+•
+•
+•
+C
+H
+H
+H
+H
+•
+•
+•
+•
+•
+•
+•
+•
+O •
+•
+•
+•
+•
+•
+•
+•
+O
+•
+•
+•
+•
+H
+H
+O
+O
+H
+H
+O
+H
+H
+H
+H
+C
+ Figura 2.10 Ligação covalente em quatro moléculas. 
+O número de elétrons necessários para completar a camada de va-
+lência de um átomo geralmente determina quantas ligações cova-
+lentes o átomo forma. Esta figura mostra várias maneiras de indicar 
+ligações covalentes.
+38 
+ 
+REECE, URRY, CAIN, WASSERMAN, MINORSKY & JACKSON
+É isso que acontece quando um átomo de sódio (11Na) 
+encontra um átomo de cloro (17Cl) (Figura 2.12). O átomo 
+de sódio tem no total 11 elétrons, com o único elétron de 
+valência na terceira camada eletrônica. O átomo de cloro 
+tem no total 17 elétrons, com 7 elétrons na camada de va-
+lência. Quando esses dois átomos se encontram, o único 
+elétron de valência do sódio é transferido para o átomo de 
+cloro, e os dois átomos completam suas camadas de valên-
+cia. (Como o sódio deixou de ter um elétron na terceira 
+camada, a segunda camada é agora a camada de valência.) 
+O transporte de elétrons entre os dois átomos move uma 
+unidade de carga negativa do sódio para o cloro. O sódio, 
+agora com 11 prótons, mas apenas 10 elétrons, tem car-
+ga elétrica líquida de 11; o átomo de sódio tornou-se um 
+cátion. Inversamente, o átomo de cloro, ao ganhar um 
+elétron extra, tem agora 17 prótons e 18 elétrons, ficando 
+com carga elétrica líquida de –1; ele se tornou um íon de 
+cloro – um ânion.
+Os compostos formados por ligações iônicas são 
+chamados de compostos iônicos ou sais. Conhecemos 
+os compostos iônicos cloreto de sódio (NaCl) como sal 
+de cozinha (Figura 2.13). Muitas vezes, os sais são en-
+contrados na natureza como cristais de vários tamanhos 
+e formas. Cada cristal de sal 
+é um agregado de um vasto 
+número de cátions e ânions 
+ligados por sua atração elé-
+trica e dispostos em uma rede 
+tridimensional. Diferentemente do 
+composto covalente, que consiste em 
+moléculas com tamanho e número de 
+átomos definidos, o composto iônico 
+não consiste em moléculas. A fórmula 
+para um composto iônico como o NaCl 
+indica apenas a razão de elementos no 
+cristal de sal. ”NaCl”, por si só, não é 
+uma molécula.
+Nem todos os sais têm números 
+iguais de cátions e ânions. Por exemplo, 
+o composto iônico cloreto de magnésio 
+(MgCl2) tem dois íons cloro para cada 
+íon de magnésio. O magnésio (12Mg) 
+deve perder 2 elétrons externos, para 
+o átomo ter a camada de valência com-
+pleta. Assim, ele tende a tornar-se um 
+cátion com carga líquida de 12 (Mg
+21). 
+Portanto, um cátion de magnésio pode 
+formar ligações iônicas com dois ânions 
+de cloro (Cl
+–).
+O termo íon também se aplica a moléculas intei-
+ras eletricamente carregadas. No sal cloreto de amônio 
+(NH4Cl), por exemplo, o ânion é um único íon cloro (Cl
+–), 
+mas o cátion é o amônio (NH4
+1), um átomo de nitrogê-
+nio ligado covalentemente a quatro átomos de hidrogênio. 
+O íon amônio inteiro tem carga elétrica 11 porque ele 
+cede 1 elétron.
+O ambiente afeta a força das ligações iônicas. Em um 
+cristal de sal seco, as ligações são tão fortes que só com 
+martelo e formão é possível quebrá-las o suficiente para di-
+vidir o cristal em dois. Entretanto, se o mesmo cristal de sal 
+for dissolvido na água, as ligações iônicas ficam muito mais 
+fracas porque cada íon é parcialmente protegido por suas 
+interações com as moléculas de água. Os medicamentos,
+na sua maioria, são produzidas na forma de sais porque 
+eles são totalmente estáveis quando secos, mas podem dis-
+sociar-se facilmente em água. (No próximo capítulo, você 
+aprenderá como a água dissolve os sais.)
+Ligações químicas fracas
+Nos organismos, as ligações químicas mais fortes são ma-
+joritariamente ligações covalentes, que unem os átomos 
+para formar as moléculas da célula. Contudo, as ligações 
+fracas intra e intermoleculares também são indispensáveis, 
+contribuindo consideravelmente para as propriedades 
+emergentes da vida. Muitas moléculas biológicas grandes 
+estão mantidas em suas formas funcionais por ligações fra-
+cas. Além disso, quando duas moléculas fazem contato na 
+célula, elas podem se aderir temporariamente por ligações 
+fracas. A reversibilidade das ligações fracas pode ser uma 
+vantagem: duas moléculas podem se unir, interagir de al-
+guma maneira e, após, se separar.
+Vários tipos de ligações químicas fracas são impor-
+tantes em organismos. Um tipo é a ligação iônica existente 
+entre íons dissociados na água, que discutimos há pouco. 
+As ligações de hidrogênio e a força de van der Waals tam-
+bém são cruciais para a vida.
+Na
+Cl
+Íon cloro
+(ânion)
+Íon sódio
+(cátion)
+Átomo de cloro
+Átomo de sódio
+Cl–
+Na+
+–
++
+Cl
+Na
+Cloreto de sódio (NaCl)
+Na
+Cl
+     Cada íon resultante tem uma 
+camada de valência completa. Uma 
+ligação iônica pode ser formada entre 
+íons de cargas opostas.
+2
+     O elétron de valência solitário de um
+átomo de sódio é transferido para se 
+unir aos 7 elétrons de valência de um 
+átomo de cloro.
+1
+ Figura 2.12 Transporte de elétrons e ligação iônica. A atração entre átomos de 
+cargas opostas, ou íons, é uma ligação iônica. Uma ligação iônica pode se formar entre 
+quaisquer dois íons de cargas opostas, mesmo se não são formados pela transferência de 
+um elétron de um para o outro.
+Cl–
+Na+
+ Figura 2.13 Um cristal de 
+cloreto de sódio (NaCl). Os íons 
+sódio (Na
+1) e os íons de cloro (Cl
+–) 
+são unidos por ligações iônicas. 
+A fórmula NaCl nos informa que a 
+razão de Na
+1 para Cl
+– é 1:1.

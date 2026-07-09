@@ -1,0 +1,11 @@
+# Descomente para usar GPU NVIDIA no Ollama:
+
+# services:
+#   ollama:
+#     deploy:
+#       resources:
+#         reservations:
+#           devices:
+#             - driver: nvidia
+#               count: 1
+#               capabilities: [gpu]

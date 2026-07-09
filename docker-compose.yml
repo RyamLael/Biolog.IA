@@ -1,0 +1,20 @@
+services:
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+      - ./ollama_entrypoint.sh:/ollama_entrypoint.sh
+    container_name: ollama
+    pull_policy: always
+    tty: true
+    restart: always
+    entrypoint: ["/usr/bin/bash", "/ollama_entrypoint.sh"]
+    mem_limit: 8g 
+
+volumes:
+  chroma_data: {}
+  huggingface_cache: {}
+  easyocr_models: {}
+  ollama_data: {}
